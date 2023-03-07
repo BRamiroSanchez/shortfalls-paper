@@ -1,0 +1,2618 @@
+# v1.9.0
+# ./Infomap vmes.16Jun.net ./ --flow-model undirected --tree -N1000
+# started at 2022-06-16 10:39:26
+# completed in 207.7 s
+# partitioned into 4 levels with 47 top modules
+# codelength 8.15809 bits
+# relative codelength savings 15.5556%
+# path flow name node_id
+1:1:1 0.0119935 "3076" 2163
+1:1:2 0.0116053 "2320" 2111
+1:1:3 0.0104021 "3723" 2228
+1:1:4 0.0103633 "3205" 2179
+1:1:5 0.0103633 "3072" 2161
+1:1:6 0.0103245 "2465" 2122
+1:1:7 0.0102857 "2953" 2151
+1:1:8 0.0102469 "2687" 2131
+1:1:9 0.0102469 "2821" 2139
+1:1:10 0.0102469 "2942" 2150
+1:1:11 0.0102469 "3450" 2201
+1:1:12 0.0102469 "3196" 2172
+1:1:13 0.0102469 "3069" 2160
+1:1:14 0.00888837 "3279" 2185
+1:1:15 0.00830616 "3531" 2208
+1:1:16 0.00807328 "3910" 2241
+1:1:17 0.00721938 "4216" 2267
+1:1:18 0.0064431 "3204" 2178
+1:1:19 0.00640429 "4288" 2275
+1:1:20 0.00605496 "1197" 2055
+1:1:21 0.00605496 "3331" 2190
+1:1:22 0.00605496 "2195" 2101
+1:1:23 0.00589971 "3201" 2175
+1:1:24 0.00566682 "4539" 2294
+1:1:25 0.00535631 "5301" 2329
+1:1:26 0.0053175 "3278" 2184
+1:1:27 0.00485173 "3200" 2174
+1:1:28 0.00430834 "2053" 2090
+1:1:29 0.00399783 "3534" 2211
+1:1:30 0.00388138 "3330" 2189
+1:1:31 0.00376494 "2466" 2123
+1:1:32 0.00368732 "4287" 2274
+1:1:33 0.00345443 "3535" 2212
+1:1:34 0.00333799 "4354" 2281
+1:1:35 0.00310511 "4412" 2285
+1:1:36 0.0027946 "3787" 2233
+1:1:37 0.00260053 "Plesiastrea versipora" 1480
+1:1:38 0.0025229 "3328" 2187
+1:1:39 0.00248409 "8638" 2594
+1:1:40 0.00248409 "3404" 2195
+1:1:41 0.00244527 "4466" 2289
+1:1:42 0.00236764 "Pocillopora damicornis" 1490
+1:1:43 0.00232883 "3252" 2183
+1:1:44 0.00229002 "Pocillopora verrucosa" 1497
+1:1:45 0.00221239 "Favites abdita" 760
+1:1:46 0.00221239 "3833" 2235
+1:1:47 0.00221239 "Fungia fungites" 807
+1:1:48 0.00221239 "4414" 2287
+1:1:49 0.00213476 "Pavona varians" 1414
+1:1:50 0.00213476 "Goniastrea pectinata" 858
+1:1:51 0.00213476 "Galaxea fascicularis" 828
+1:1:52 0.00213476 "Favites pentagona" 768
+1:1:53 0.00205713 "Platygyra daedalea" 1472
+1:1:54 0.00205713 "Porites lutea" 1534
+1:1:55 0.00201832 "3661" 2223
+1:1:56 0.00201832 "Cyphastrea microphthalma" 553
+1:1:57 0.00197951 "Lobophyllia hemprichii" 1160
+1:1:58 0.00194069 "4227" 2269
+1:1:59 0.00194069 "3408" 2199
+1:1:60 0.00190188 "Goniastrea retiformis" 859
+1:1:61 0.00190188 "Leptastrea transversa" 1109
+1:1:62 0.00190188 "3706" 2225
+1:1:63 0.00190188 "Dipsastraea pallida" 626
+1:1:64 0.00190188 "3007" 2156
+1:1:65 0.00186306 "Leptoria phrygia" 1114
+1:1:66 0.00186306 "Psammocora contigua" 1569
+1:1:67 0.00186306 "Hydnophora exesa" 1014
+1:1:68 0.00186306 "Dipsastraea favus" 618
+1:1:69 0.00182425 "Goniastrea stelligera" 860
+1:1:70 0.00182425 "Astrea curta" 166
+1:1:71 0.00178544 "2573" 2128
+1:1:72 0.00178544 "Pocillopora grandis" 1492
+1:1:73 0.00174662 "Pavona explanulata" 1410
+1:1:74 0.00174662 "Echinopora lamellosa" 665
+1:1:75 0.00174662 "Galaxea astreata" 827
+1:1:76 0.00174662 "Acanthastrea echinata" 13
+1:1:77 0.00170781 "Porites rus" 1541
+1:1:78 0.00170781 "4793" 2306
+1:1:79 0.00170781 "Podabacia crustacea" 1500
+1:1:80 0.00170781 "Psammocora profundacella" 1573
+1:1:81 0.00170781 "Porites lobata" 1533
+1:1:82 0.001669 "Oxypora lacera" 1361
+1:1:83 0.001669 "Leptoseris mycetoseroides" 1119
+1:1:84 0.001669 "Platygyra lamellina" 1473
+1:1:85 0.001669 "Platygyra pini" 1474
+1:1:86 0.00163018 "Leptastrea purpurea" 1108
+1:1:87 0.00163018 "Isopora palifera" 1057
+1:1:88 0.00163018 "Herpolitha limax" 935
+1:1:89 0.00163018 "Dipsastraea matthaii" 624
+1:1:90 0.00163018 "Merulina ampliata" 1207
+1:1:91 0.00159137 "Mycedium elephantotus" 1299
+1:1:92 0.00159137 "3409" 2200
+1:1:93 0.00159137 "4289" 2276
+1:1:94 0.00159137 "Gardineroseris planulata" 835
+1:1:95 0.00159137 "Lobactis scutaria" 1152
+1:1:96 0.00159137 "Turbinaria peltata" 1950
+1:1:97 0.00159137 "Dipsastraea speciosa" 628
+1:1:98 0.00155255 "Euphyllia glabrescens" 730
+1:1:99 0.00155255 "Platygyra sinensis" 1476
+1:1:100 0.00151374 "Cyphastrea chalcidicum" 552
+1:1:101 0.00151374 "Plerogyra sinuosa" 1479
+1:1:102 0.00151374 "Pavona maldivensis" 1412
+1:1:103 0.00151374 "Porites solida" 1542
+1:1:104 0.00151374 "Favites halicora" 765
+1:1:105 0.00147493 "Lobophyllia corymbosa" 1154
+1:1:106 0.00147493 "Montipora tuberculosa" 1271
+1:1:107 0.00147493 "Hydnophora microconos" 1016
+1:1:108 0.00147493 "Oulophyllia crispa" 1358
+1:1:109 0.00147493 "Pachyseris speciosa" 1366
+1:1:110 0.00143611 "Goniastrea edwardsi" 855
+1:1:111 0.00143611 "4920" 2314
+1:1:112 0.00143611 "Montipora monasteriata" 1262
+1:1:113 0.0013973 "Porites lichen" 1532
+1:1:114 0.0013973 "Montipora venosa" 1272
+1:1:115 0.0013973 "Lithophyllon concinna" 1144
+1:1:116 0.0013973 "Stylocoeniella guentheri" 1829
+1:1:117 0.00135848 "Lithophyllon repanda" 1145
+1:1:118 0.00135848 "3660" 2222
+1:1:119 0.00135848 "Pavona clavus" 1406
+1:1:120 0.00135848 "Montipora verrucosa" 1274
+1:1:121 0.00135848 "Cycloseris cyclolites" 541
+1:1:122 0.00135848 "Favites complanata" 764
+1:1:123 0.00135848 "Leptoseris hawaiiensis" 1118
+1:1:124 0.00131967 "Halomitra pileus" 919
+1:1:125 0.00131967 "Diploastrea heliopora" 614
+1:1:126 0.00131967 "4666" 2300
+1:1:127 0.00131967 "Pavona venosa" 1415
+1:1:128 0.00131967 "Coscinaraea columna" 490
+1:1:129 0.00131967 "Coscinaraea monile" 493
+1:1:130 0.00128086 "Favites chinensis" 762
+1:1:131 0.00128086 "Goniopora lobata" 871
+1:1:132 0.00128086 "Cycloseris costulata" 539
+1:1:133 0.00128086 "Eucidaris metularia" 720
+1:1:134 0.00128086 "Paragoniastrea russelli" 1380
+1:1:135 0.00128086 "Porites nigrescens" 1538
+1:1:136 0.00128086 "Hydnophora rigida" 1018
+1:1:137 0.00128086 "Turbinaria stellulata" 1951
+1:1:138 0.00124204 "Psammocora nierstraszi" 1572
+1:1:139 0.00124204 "Montipora digitata" 1245
+1:1:140 0.00124204 "Pavona minuta" 1413
+1:1:141 0.00124204 "Danafungia horrida" 560
+1:1:142 0.00124204 "Physogyra lichtensteini" 1460
+1:1:143 0.00124204 "3125" 2166
+1:1:144 0.00124204 "Lobophyllia recta" 1163
+1:1:145 0.00120323 "Goniopora tenuidens" 876
+1:1:146 0.00120323 "Polyphyllia talpina" 1520
+1:1:147 0.00120323 "Echinopora hirsutissima" 663
+1:1:148 0.00120323 "Echinopora gemmacea" 662
+1:1:149 0.00120323 "Leptoseris scabra" 1121
+1:1:150 0.00120323 "Montipora informis" 1257
+1:1:151 0.00120323 "Pleuractis granulosa" 1481
+1:1:152 0.00116442 "Seriatopora caliendrum" 1672
+1:1:153 0.00116442 "Cycloseris explanulata" 543
+1:1:154 0.00116442 "Ctenactis echinata" 519
+1:1:155 0.0011256 "Bernardpora stutchburyi" 244
+1:1:156 0.0011256 "Tubastraea micranthus" 1945
+1:1:157 0.0011256 "Pocillopora meandrina" 1496
+1:1:158 0.0011256 "Montipora grisea" 1255
+1:1:159 0.0011256 "Goniopora columna" 869
+1:1:160 0.0011256 "Goniopora djiboutiensis" 870
+1:1:161 0.00108679 "Heterocyathus aequicostatus" 938
+1:1:162 0.00108679 "Pectinia lactuca" 1417
+1:1:163 0.00108679 "Pleuractis paumotensis" 1484
+1:1:164 0.00108679 "1070" 2048
+1:1:165 0.00108679 "Paramontastraea peresi" 1390
+1:1:166 0.00108679 "Goniopora stokesi" 875
+1:1:167 0.00108679 "Danafungia scruposa" 561
+1:1:168 0.00104797 "Montipora efflorescens" 1247
+1:1:169 0.00104797 "Dipsastraea rotumana" 627
+1:1:170 0.00104797 "Dichrometra palmata" 602
+1:1:171 0.00104797 "Comanthus parvicirrus" 461
+1:1:172 0.00104797 "Goniastrea favulus" 856
+1:1:173 0.00104797 "Dipsastraea laxa" 621
+1:1:174 0.00104797 "Fimbriaphyllia ancora" 777
+1:1:175 0.00104797 "Favites valenciennesii" 772
+1:1:176 0.00104797 "Lobophyllia hataii" 1159
+1:1:177 0.00104797 "Platygyra ryukyuensis" 1475
+1:1:178 0.00104797 "Echinophyllia orpheensis" 659
+1:1:179 0.00100916 "Psammocora haimiana" 1571
+1:1:180 0.00100916 "Coelastrea palauensis" 446
+1:1:181 0.00100916 "Millepora platyphylla" 1223
+1:1:182 0.00100916 "Lobophyllia valenciennesii" 1166
+1:1:183 0.000970346 "Dipsastraea lizardensis" 622
+1:1:184 0.000970346 "Lobophyllia radians" 1162
+1:1:185 0.000970346 "Leptastrea pruinosa" 1107
+1:1:186 0.000931532 "Cycloseris distorta" 542
+1:1:187 0.000931532 "Cycloseris fragilis" 544
+1:1:188 0.000931532 "Coeloseris mayeri" 449
+1:1:189 0.000931532 "Montipora millepora" 1261
+1:1:190 0.000931532 "Pavona cactus" 1405
+1:1:191 0.000931532 "Montipora caliculata" 1242
+1:1:192 0.000931532 "Astreopora ocellata" 173
+1:1:193 0.000931532 "Platygyra verweyi" 1477
+1:1:194 0.000931532 "Stylocoeniella armata" 1828
+1:1:195 0.000931532 "Leptastrea bottae" 1105
+1:1:196 0.000892719 "Montipora foveolata" 1253
+1:1:197 0.000892719 "Sandalolitha robusta" 1636
+1:1:198 0.000892719 "Pavona frondifera" 1411
+1:1:199 0.000892719 "Favites vasta" 773
+1:1:200 0.000892719 "Dipsastraea maxima" 625
+1:1:201 0.000892719 "Lobophyllia agaricia" 1153
+1:1:202 0.000892719 "Pocillopora woodjonesi" 1498
+1:1:203 0.000892719 "Astrea annuligera" 165
+1:1:204 0.000892719 "Montipora spongodes" 1267
+1:1:205 0.000853905 "2593" 2130
+1:1:206 0.000853905 "Pleuractis seychellensis" 1485
+1:1:207 0.000853905 "5047" 2319
+1:1:208 0.000853905 "Leptoseris yabei" 1125
+1:1:209 0.000815091 "Montipora floweri" 1251
+1:1:210 0.000815091 "Lobophyllia vitiensis" 1167
+1:1:211 0.000815091 "Gyrosmilia interrupta" 887
+1:1:212 0.000815091 "Leptoseris foliosa" 1116
+1:1:213 0.000815091 "Dipsastraea helianthoides" 619
+1:1:214 0.000815091 "816" 2026
+1:1:215 0.000815091 "Astreopora listeri" 172
+1:1:216 0.000815091 "Dipsastraea veroni" 629
+1:1:217 0.000776277 "Oulophyllia bennettae" 1357
+1:1:218 0.000776277 "Astrea devantieri" 167
+1:1:219 0.000776277 "Millepora exaesa" 1222
+1:1:220 0.000776277 "Turbinaria irregularis" 1949
+1:1:221 0.000776277 "Dipsastraea maritima" 623
+1:1:222 0.000776277 "Hydnophora pilosa" 1017
+1:1:223 0.000776277 "Psammocora digitata" 1570
+1:1:224 0.000776277 "Pavona duerdeni" 1409
+1:1:225 0.000776277 "Cycloseris somervillei" 545
+1:1:226 0.000737463 "Acanthastrea brevis" 12
+1:1:227 0.000737463 "Lobophyllia robusta" 1164
+1:1:228 0.000737463 "Cycloseris wellsi" 547
+1:1:229 0.000737463 "Dipsastraea danai" 616
+1:1:230 0.000737463 "Montipora foliosa" 1252
+1:1:231 0.000737463 "Porites profundus" 1540
+1:1:232 0.000737463 "Stylophora madagascarensis" 1832
+1:1:233 0.000737463 "Cynarina lacrymalis" 550
+1:1:234 0.000737463 "Millepora dichotoma" 1221
+1:1:235 0.000737463 "Coscinaraea exesa" 492
+1:1:236 0.000737463 "Leptastrea inaequalis" 1106
+1:1:237 0.000737463 "Horastrea indica" 978
+1:1:238 0.000737463 "Tubipora musica" 1946
+1:1:239 0.000698649 "Lobophyllia ishigakiensis" 1161
+1:1:240 0.000698649 "1705" 2077
+1:1:241 0.000698649 "Pachyseris rugosa" 1365
+1:1:242 0.000698649 "Favites paraflexuosus" 767
+1:1:243 0.000698649 "Lobophyllia erythraea" 1156
+1:1:244 0.000698649 "Pleuractis moluccensis" 1483
+1:1:245 0.000698649 "Pectinia africana" 1416
+1:1:246 0.000698649 "Pseudosiderastrea tayamai" 1582
+1:1:247 0.000698649 "Caulastraea connata" 339
+1:1:248 0.000698649 "Millepora tenera" 1224
+1:1:249 0.000698649 "Platygyra crosslandi" 1471
+1:1:250 0.000659835 "3786" 2232
+1:1:251 0.000659835 "Goniopora albiconus" 868
+1:1:252 0.000659835 "Pocillopora indiania" 1493
+1:1:253 0.000659835 "Micromussa lordhowensis" 1218
+1:1:254 0.000659835 "Oxypora echinata" 1360
+1:1:255 0.000659835 "Seriatopora guttata" 1674
+1:1:256 0.000659835 "Siderastrea savignyana" 1681
+1:1:257 0.000659835 "Alveopora catalai" 62
+1:1:258 0.000659835 "Porites australiensis" 1525
+1:1:259 0.000659835 "Leptoseris glabra" 1117
+1:1:260 0.000659835 "Leptastrea aequalis" 1104
+1:1:261 0.000659835 "Favites colemani" 763
+1:1:262 0.000659835 "Stylophora subseriata" 1834
+1:1:263 0.000659835 "Alveopora daedalea" 63
+1:1:264 0.000659835 "Coscinaraea crassa" 491
+1:1:265 0.000621022 "Goniastrea thecata" 861
+1:1:266 0.000621022 "Acanthastrea subechinata" 17
+1:1:267 0.000621022 "Lithophyllon scabra" 1146
+1:1:268 0.000621022 "Montipora nodosa" 1263
+1:1:269 0.000621022 "Isopora cuneata" 1056
+1:1:270 0.000621022 "Goniopora planulata" 873
+1:1:271 0.000621022 "Anomastraea irregularis" 95
+1:1:272 0.000621022 "Platygyra contorta" 1470
+1:1:273 0.000621022 "Goniastrea columella" 854
+1:1:274 0.000621022 "Mycedium mancaoi" 1300
+1:1:275 0.000621022 "Psammocora stellata" 1574
+1:1:276 0.000621022 "Leptoseris explanata" 1115
+1:1:277 0.000621022 "Acanthastrea rotundoflora" 15
+1:1:278 0.000621022 "Sinularia brassica" 1689
+1:1:279 0.000621022 "Astreopora suggesta" 175
+1:1:280 0.000621022 "Porites annae" 1523
+1:1:281 0.000621022 "Oxypora crassispinosa" 1359
+1:1:282 0.000621022 "Micromussa amakusensis" 1217
+1:1:283 0.000582208 "Goniopora paliformis" 872
+1:1:284 0.000582208 "Stylaraea punctata" 1816
+1:1:285 0.000582208 "Ctenella chagius" 520
+1:1:286 0.000582208 "Porites latistellata" 1531
+1:1:287 0.000582208 "Acanthastrea pachysepta" 14
+1:1:288 0.000582208 "Montipora maeandrina" 1259
+1:1:289 0.000582208 "Pavona danai" 1407
+1:1:290 0.000582208 "Alveopora allingi" 61
+1:1:291 0.000582208 "Favites spinosa" 770
+1:1:292 0.000582208 "Porites monticulosa" 1536
+1:1:293 0.000582208 "Porites nodifera" 1539
+1:1:294 0.000582208 "Platygyra carnosa" 1469
+1:1:295 0.000582208 "Astreopora expansa" 168
+1:1:296 0.000543394 "Craterastrea levis" 500
+1:1:297 0.000543394 "Montipora stilosa" 1270
+1:1:298 0.000543394 "Porites columnaris" 1526
+1:1:299 0.000543394 "Montipora spumosa" 1268
+1:1:300 0.000543394 "Goniastrea minuta" 857
+1:1:301 0.000543394 "Dipsastraea faviaformis" 617
+1:1:302 0.000543394 "Favites stylifera" 771
+1:1:303 0.000543394 "Cycloseris curvata" 540
+1:1:304 0.000543394 "Montipora circumvallata" 1243
+1:1:305 0.000543394 "Pocillopora ligulata" 1494
+1:1:306 0.000543394 "Sarcophyton glaucum" 1649
+1:1:307 0.000543394 "Blastomussa loyae" 255
+1:1:308 0.000543394 "Alveopora gigas" 64
+1:1:309 0.000543394 "Echinopora forskaliana" 661
+1:1:310 0.000543394 "Leptoseris solida" 1122
+1:1:311 0.000543394 "Lobophyllia flabelliformis" 1157
+1:1:312 0.000543394 "Echinophyllia echinoporoides" 657
+1:1:313 0.00050458 "Dipsastraea vietnamensis" 630
+1:1:314 0.00050458 "Mycedium umbra" 1301
+1:1:315 0.00050458 "Spirobranchus tetraceros" 1741
+1:1:316 0.00050458 "Leptoseris tubulifera" 1124
+1:1:317 0.00050458 "Sinuorota hexagonalis" 1708
+1:1:318 0.00050458 "Anacropora spumosa" 88
+1:1:319 0.00050458 "Anacropora forbesi" 85
+1:1:320 0.00050458 "Madracis kirbyi" 1183
+1:1:321 0.00050458 "Seriatopora stellata" 1675
+1:1:322 0.00050458 "Alveopora viridis" 65
+1:1:323 0.00050458 "Echinopora robusta" 666
+1:1:324 0.00050458 "Astreopora randalli" 174
+1:1:325 0.00050458 "Seriatopora dentritica" 1673
+1:1:326 0.00050458 "Favites acuticollis" 761
+1:1:327 0.00050458 "Pocillopora elegans" 1491
+1:1:328 0.00050458 "Micromussa regularis" 1219
+1:1:329 0.00050458 "Stylophora danae" 1831
+1:1:330 0.00050458 "Cantharellus doederleini" 299
+1:1:331 0.00050458 "Montipora cryptus" 1244
+1:1:332 0.00050458 "Dipsastraea lacuna" 620
+1:1:333 0.00050458 "Isopora crateriformis" 1055
+1:1:334 0.00050458 "Pocillopora zelli" 1499
+1:1:335 0.00050458 "Stylophora mamillata" 1833
+1:1:336 0.00050458 "Stylophora wellsi" 1835
+1:1:337 0.00050458 "Montipora saudii" 1264
+1:1:338 0.00050458 "Fungia puishani" 808
+1:1:339 0.00050458 "Porites superfusa" 1544
+1:1:340 0.00050458 "1323" 2060
+1:1:341 0.00050458 "Psammocora albopicta" 1568
+1:1:342 0.00050458 "Porites harrisoni" 1530
+1:1:343 0.00050458 "Paragoniastrea deformis" 1379
+1:1:344 0.00050458 "943" 2036
+1:1:345 0.000465766 "Neopetrosia chaliniformis" 1322
+1:1:346 0.000465766 "Acanthella pulcherrima" 20
+1:1:347 0.000465766 "1196" 2054
+1:1:348 0.000465766 "Ctenocella pectinata" 521
+1:1:349 0.000426952 "Isopora brueggemanni" 1054
+1:1:350 0.000426952 "2339" 2114
+1:1:351 0.000426952 "Pectinia paeonia" 1418
+1:1:352 0.000426952 "Favites rotundata" 769
+1:1:353 0.000426952 "Montipora angulata" 1241
+1:1:354 0.000426952 "Comanthus gisleni" 460
+1:1:355 0.000426952 "Caulastraea tumida" 340
+1:1:356 0.000388138 "1578" 2071
+1:1:357 0.000388138 "Sarcophyton ehrenbergi" 1646
+1:1:358 0.000388138 "Porites vaughani" 1545
+1:1:359 0.000349325 "3662" 2224
+1:1:360 0.000349325 "Heteractis crispa" 937
+1:1:361 0.000349325 "2560" 2126
+1:1:362 0.000349325 "Echinopora horrida" 664
+1:1:363 0.000349325 "Lobophyllia rowleyensis" 1165
+1:1:364 0.000349325 "Merulina scabricula" 1208
+1:1:365 0.000349325 "Astreopora gracilis" 170
+1:1:366 0.000349325 "Ctenactis crassa" 518
+1:1:367 0.000310511 "Dorometra parvicirra" 642
+1:1:368 0.000310511 "Junceella fragilis" 1072
+1:1:369 0.000310511 "Scapophyllia cylindrica" 1655
+1:1:370 0.000310511 "Cycloseris vaughani" 546
+1:1:371 0.000310511 "2338" 2113
+1:1:372 0.000310511 "942" 2035
+1:1:373 0.000310511 "Hydroides exaltata" 1019
+1:1:374 0.000271697 "Porites murrayensis" 1537
+1:1:375 0.000271697 "3379" 2193
+1:1:376 0.000271697 "Cryptodendrum adhaesivum" 517
+1:1:377 0.000271697 "Montipora incrassata" 1256
+1:1:378 0.000271697 "Briareum stechei" 260
+1:1:379 0.000232883 "Sarcophyton buitendijki" 1641
+1:1:380 0.000232883 "Sarcophyton crassocaule" 1643
+1:1:381 0.000232883 "Stylocidaris reini" 1826
+1:1:382 0.000232883 "Lobophytum pauciflorum" 1172
+1:1:383 0.000232883 "Distichopora violacea" 638
+1:1:384 0.000232883 "Pleuractis gravis" 1482
+1:1:385 0.000232883 "Goniopora savignyi" 874
+1:1:386 0.000232883 "Astreopora explanata" 169
+1:1:387 0.000194069 "Leptoseris papyracea" 1120
+1:1:388 0.000194069 "Hydroides kimberleyensis" 1022
+1:1:389 0.000194069 "Porites attenuata" 1524
+1:1:390 0.000194069 "Serpula watsoni" 1678
+1:1:391 0.000194069 "Echinophyllia echinata" 656
+1:1:392 0.000194069 "Echinophyllia glabra" 658
+1:1:393 0.000155255 "Sinularia pocilloporaeformis" 1703
+1:1:394 0.000155255 "1348" 2062
+1:1:395 0.000155255 "Protosuberites proteus" 1561
+1:1:396 0.000155255 "Decametra parva" 567
+1:1:397 0.000155255 "Hydroides externispina" 1020
+1:1:398 0.000155255 "Coelocarteria singaporensis" 447
+1:1:399 0.000155255 "Sarcophyton elegans" 1647
+1:1:400 0.000155255 "Axinyssa aplysinoides" 209
+1:1:401 0.000155255 "Vermiliopsis glandigera" 1964
+1:1:402 0.000155255 "Caulospongia pennatula" 347
+1:1:403 0.000116442 "4540" 2295
+1:1:404 0.000116442 "Galaxea lamarcki" 829
+1:1:405 0.000116442 "2241" 2107
+1:1:406 0.000116442 "Caryophyllia (Acanthocyathus) decamera" 308
+1:1:407 0.000116442 "Stereocidaris leucacantha" 1794
+1:1:408 0.000116442 "Antedon parviflora" 101
+1:1:409 0.000116442 "Paraminabea aldersladei" 1387
+1:1:410 0.000116442 "965" 2042
+1:1:411 0.000116442 "Spirobranchus corrugatus" 1738
+1:1:412 0.000116442 "Sarametra triserialis" 1639
+1:1:413 0.000116442 "Oligotrema psammites" 1350
+1:1:414 7.76277e-05 "Glyptometra macilenta" 853
+1:1:415 7.76277e-05 "Podabacia motuporensis" 1501
+1:1:416 7.76277e-05 "Pocillopora brevicornis" 1489
+1:1:417 7.76277e-05 "Histocidaris crassispina" 968
+1:1:418 7.76277e-05 "Axinyssa bergquistae" 210
+1:1:419 7.76277e-05 "Histocidaris formosa" 970
+1:1:420 7.76277e-05 "Balanophyllia desmophyllioides" 219
+1:1:421 7.76277e-05 "Bathystyeloides anfractus" 238
+1:1:422 7.76277e-05 "Callogorgia formosa" 271
+1:1:423 7.76277e-05 "Goniocidaris (Aspidocidaris) crassa" 862
+1:1:424 7.76277e-05 "1324" 2061
+1:1:425 7.76277e-05 "Capnella garetti" 301
+1:1:426 7.76277e-05 "3586" 2217
+1:1:427 7.76277e-05 "3536" 2213
+1:1:428 7.76277e-05 "Pseudodiazona abyssa" 1580
+1:1:429 7.76277e-05 "Leptoseris striata" 1123
+1:1:430 7.76277e-05 "Sarcophyton digitatum" 1645
+1:1:431 7.76277e-05 "Culicia stellata" 531
+1:1:432 7.76277e-05 "Cyphastrea agassizi" 551
+1:1:433 7.76277e-05 "Styela longiducta" 1811
+1:1:434 7.76277e-05 "Melithaea variabilis" 1200
+1:1:435 7.76277e-05 "Didemnum psammatodes" 608
+1:1:436 7.76277e-05 "Lobophyllia hassi" 1158
+1:1:437 7.76277e-05 "Stelletta splendens" 1770
+1:1:438 7.76277e-05 "Eucalathis rugosa" 719
+1:1:439 3.88138e-05 "Stephanocyathus regius" 1785
+1:1:440 3.88138e-05 "Flabellum (Flabellum) patens" 781
+1:1:441 3.88138e-05 "2815" 2137
+1:1:442 3.88138e-05 "2820" 2138
+1:1:443 3.88138e-05 "Endopachys bulbosa" 691
+1:1:444 3.88138e-05 "2892" 2149
+1:1:445 3.88138e-05 "Ecteinascidia flora" 671
+1:1:446 3.88138e-05 "Stephanocyathus (Stephanocyathus) regius" 1781
+1:1:447 3.88138e-05 "Stereocidaris sulcatispinis" 1797
+1:1:448 3.88138e-05 "Lobophyllia costata" 1155
+1:1:449 3.88138e-05 "Flabellum transversale" 799
+1:1:450 3.88138e-05 "Sigmosceptrella quadrilobata" 1686
+1:1:451 3.88138e-05 "Didiscus aceratus" 612
+1:1:452 3.88138e-05 "3147" 2168
+1:1:453 3.88138e-05 "Fungiacyathus (Bathyactis) variegatus" 813
+1:1:454 3.88138e-05 "Didemnum precocinum" 607
+1:1:455 3.88138e-05 "Stereocidaris tubifera" 1798
+1:1:456 3.88138e-05 "Dactylotrochus cervicornis" 555
+1:1:457 3.88138e-05 "Fungiacyathus variegatus" 821
+1:1:458 3.88138e-05 "Metallogorgia melanotrichos" 1212
+1:1:459 3.88138e-05 "Litophyton maldivensis" 1151
+1:1:460 3.88138e-05 "Culicia cuticulata" 529
+1:1:461 3.88138e-05 "Minipera papillosa" 1225
+1:1:462 3.88138e-05 "Minipera pedunculata" 1226
+1:1:463 3.88138e-05 "2196" 2102
+1:1:464 3.88138e-05 "Sarcophyton cherbonnieri" 1642
+1:1:465 3.88138e-05 "Crucigera inconstans" 514
+1:1:466 3.88138e-05 "Conescharellina jucunda" 469
+1:1:467 3.88138e-05 "Rhombopsammia squiresi" 1620
+1:1:468 3.88138e-05 "Gardineria philippinensis" 834
+1:1:469 3.88138e-05 "3507" 2206
+1:1:470 3.88138e-05 "3522" 2207
+1:1:471 3.88138e-05 "Cliona jullieni" 436
+1:1:472 3.88138e-05 "Montipora sinuosa" 1265
+1:1:473 3.88138e-05 "Nidalia simpsoni" 1331
+1:1:474 3.88138e-05 "Heterotella corbicula" 943
+1:1:475 3.88138e-05 "3577" 2214
+1:1:476 3.88138e-05 "Kaliapsis permollis" 1075
+1:1:477 3.88138e-05 "Octacnemus zarcoi" 1347
+1:1:478 3.88138e-05 "Synoicum atopogaster" 1847
+1:1:479 3.88138e-05 "Paracyathus parvulus" 1377
+1:1:480 3.88138e-05 "Thaumatocrinus investigatoris" 1889
+1:1:481 3.88138e-05 "Psammetta erythrocytomorpha" 1564
+1:1:482 3.88138e-05 "Bolteniopsis perlucidus" 257
+1:1:483 3.88138e-05 "Thouarella (Euthouarella) hilgendorfi" 1908
+1:1:484 3.88138e-05 "Bathyoncus lanatus" 231
+1:1:485 3.88138e-05 "Gorgonocephalus sundanus" 880
+1:1:486 3.88138e-05 "3954" 2245
+1:1:487 3.88138e-05 "Haliclona kirkpatricki" 910
+1:1:488 3.88138e-05 "Pararete farreopsis" 1392
+1:1:489 3.88138e-05 "Paratimea mosambicensis" 1401
+1:1:490 3.88138e-05 "Paratimea rosacea" 1402
+1:1:491 3.88138e-05 "Asteroschema salix" 160
+1:1:492 3.88138e-05 "Argyrotheca australis" 137
+1:1:493 3.88138e-05 "Argyrotheca angulata" 136
+1:1:494 3.88138e-05 "Antipathes spinulosa" 116
+1:1:495 3.88138e-05 "Antipathes curvata" 115
+1:1:496 3.88138e-05 "Antipathes aculeata" 114
+1:1:497 3.88138e-05 "Plumapathes pennacea" 1488
+1:1:498 3.88138e-05 "4589" 2296
+1:1:499 3.88138e-05 "Hemistyela pilosa" 931
+1:1:500 3.88138e-05 "Anacropora puertogalerae" 87
+1:1:501 3.88138e-05 "Anacropora matthai" 86
+1:1:502 3.88138e-05 "Agnezia celtica" 53
+1:1:503 3.88138e-05 "Acanthopathes somervillei" 23
+1:1:504 3.88138e-05 "5945" 2394
+1:1:505 3.88138e-05 "6841" 2493
+1:1:506 3.88138e-05 "Vitreotubus digeronimoi" 1971
+1:1:507 3.88138e-05 "Abyssopathes lyriformis" 8
+1:2:1 0.00306629 "4413" 2286
+1:2:2 0.00197951 "4036" 2249
+1:2:3 0.00186306 "4035" 2248
+1:2:4 0.00182425 "3909" 2240
+1:2:5 0.00143611 "3657" 2219
+1:2:6 0.0013973 "3658" 2220
+1:2:7 0.00128086 "3406" 2197
+1:2:8 0.00116442 "3405" 2196
+1:2:9 0.00108679 "Madrepora oculata" 1185
+1:2:10 0.00108679 "Deltocyathus magnificus" 572
+1:2:11 0.000892719 "3532" 2209
+1:2:12 0.000853905 "3783" 2229
+1:2:13 0.000853905 "Stephanocyathus explanans" 1783
+1:2:14 0.000853905 "Stephanocyathus spiniger" 1786
+1:2:15 0.000815091 "5953" 2400
+1:2:16 0.000776277 "Jaffaia jaffaensis" 1062
+1:2:17 0.000737463 "3784" 2230
+1:2:18 0.000698649 "Letepsammia formosissima" 1128
+1:2:19 0.000659835 "Stephanocyathus (Acinocyathus) explanans" 1776
+1:2:20 0.000659835 "4034" 2247
+1:2:21 0.000621022 "Caryophyllia grandis" 330
+1:2:22 0.000621022 "Flabellum magnificum" 796
+1:2:23 0.000621022 "Flabellum (Ulocyathus) hoffmeisteri" 787
+1:2:24 0.000621022 "Flabellum (Flabellum) magnificum" 780
+1:2:25 0.000582208 "Stephanocyathus (Acinocyathus) spiniger" 1777
+1:2:26 0.000543394 "Fungiacyathus stephanus" 819
+1:2:27 0.000543394 "Flabellum (Flabellum) lamellulosum" 779
+1:2:28 0.00050458 "Caryophyllia (Caryophyllia) grandis" 315
+1:2:29 0.000465766 "5954" 2401
+1:2:30 0.000465766 "Stylobates loisetteae" 1824
+1:2:31 0.000465766 "Fungiacyathus (Fungiacyathus) stephanus" 816
+1:2:32 0.000388138 "Aphrocallistes beatrix" 119
+1:2:33 0.000388138 "Caryophyllia unicristata" 338
+1:2:34 0.000388138 "Rhombopsammia niphada" 1619
+1:2:35 0.000349325 "1603" 2075
+1:2:36 0.000349325 "Hyalonema (Cyliconema) lanceolata" 993
+1:2:37 0.000310511 "Hyalonema proximum" 1012
+1:2:38 0.000310511 "Balanophyllia (Balanophyllia) ukrainensis" 216
+1:2:39 0.000271697 "Caryophyllia (Caryophyllia) atlantica" 312
+1:2:40 0.000271697 "Paraconotrochus zeidleri" 1373
+1:2:41 0.000271697 "Euplectella aspergillum" 732
+1:2:42 0.000271697 "Balanophyllia (Balanophyllia) generatrix" 214
+1:2:43 0.000271697 "Caryophyllia transversalis" 337
+1:2:44 0.000271697 "Deltocyathus suluensis" 575
+1:2:45 0.000271697 "Cyathotrochus pileus" 538
+1:2:46 0.000271697 "Caryophyllia atlantica" 326
+1:2:47 0.000271697 "Hyalonema (Hyalonema) proximum" 1005
+1:2:48 0.000271697 "Truncatoflabellum paripavoninum" 1942
+1:2:49 0.000232883 "Asteroporpa (Astromoana) indicus" 156
+1:2:50 0.000232883 "Caryophyllia (Acanthocyathus) unicristata" 309
+1:2:51 0.000232883 "Caryophyllia (Caryophyllia) transversalis" 324
+1:2:52 0.000232883 "Fungiacyathus (Bathyactis) granulosus" 809
+1:2:53 0.000232883 "Lophophysema inflatum" 1178
+1:2:54 0.000232883 "Amphimedon lamellata" 78
+1:2:55 0.000232883 "Crypthelia pudica" 516
+1:2:56 0.000232883 "Euplectella paratetractina" 733
+1:2:57 0.000194069 "Saracrinus nobilis" 1638
+1:2:58 0.000194069 "3785" 2231
+1:2:59 0.000155255 "Asterometra cristata" 152
+1:2:60 0.000155255 "Culeolus herdmani" 524
+1:2:61 0.000155255 "Hyalonema (Cyliconema) apertum" 986
+1:2:62 0.000155255 "Hyalonema apertum" 1010
+1:2:63 0.000155255 "Astroclon suensoni" 181
+1:2:64 0.000155255 "Sphaerasclera flammicerebra" 1722
+1:2:65 0.000155255 "Semperella schultzei" 1670
+1:2:66 0.000155255 "Crotalometra rustica" 512
+1:2:67 0.000155255 "Parametra compressa" 1386
+1:2:68 0.000155255 "Balanophyllia (Balanophyllia) cornu" 213
+1:2:69 0.000116442 "Pararete semperi" 1393
+1:2:70 0.000116442 "Monohedotrochus circularis" 1239
+1:2:71 0.000116442 "Balanophyllia (Balanophyllia) gigas" 215
+1:2:72 0.000116442 "Scytalium sarsii" 1664
+1:2:73 0.000116442 "Lochmaeotrochus oculeus" 1176
+1:2:74 0.000116442 "4342" 2280
+1:2:75 0.000116442 "4410" 2284
+1:2:76 0.000116442 "Goniocidaris (Aspidocidaris) sibogae" 863
+1:2:77 0.000116442 "Sthenocephalus indicus" 1799
+1:2:78 0.000116442 "Balanophyllia gigas" 220
+1:2:79 0.000116442 "Thysanometra tenuicirra" 1912
+1:2:80 0.000116442 "Flabellum (Ulocyathus) marenzelleri" 790
+1:2:81 7.76277e-05 "Paracyathus fulvus" 1376
+1:2:82 7.76277e-05 "Regadrella okinoseana" 1603
+1:2:83 7.76277e-05 "Crispatotrochus inornatus" 510
+1:2:84 7.76277e-05 "Hyalonema (Cyliconema) keiense" 992
+1:2:85 7.76277e-05 "Hyalonema (Cyliconema) clavapinulata" 987
+1:2:86 7.76277e-05 "Chalaronema sibogae" 361
+1:2:87 7.76277e-05 "Dendrophyllia boschmai" 585
+1:2:88 7.76277e-05 "Aphanocomaster pulcher" 118
+1:2:89 7.76277e-05 "Acanella weberi" 11
+1:2:90 7.76277e-05 "Gardineria hawaiiensis" 833
+1:2:91 3.88138e-05 "1467" 2069
+1:2:92 3.88138e-05 "Truncatoflabellum angustum" 1936
+1:2:93 3.88138e-05 "Sympagella multihexastera" 1844
+1:2:94 3.88138e-05 "Polymyces wellsi" 1519
+1:2:95 3.88138e-05 "3906" 2238
+1:2:96 3.88138e-05 "Phrixometra longipinna" 1455
+1:2:97 3.88138e-05 "Molgula delicata" 1227
+1:2:98 3.88138e-05 "Metacrinus wyvillii" 1211
+1:2:99 3.88138e-05 "Acanella rigida" 10
+1:2:100 3.88138e-05 "Letepsammia fissilis" 1127
+1:2:101 3.88138e-05 "Idiotrochus kikutii" 1034
+1:2:102 3.88138e-05 "Hyalonema (Hyalonema) soelae" 1006
+1:2:103 3.88138e-05 "5095" 2322
+1:2:104 3.88138e-05 "5682" 2356
+1:2:105 3.88138e-05 "6536" 2478
+1:2:106 3.88138e-05 "Glyptometra crassa" 852
+1:2:107 3.88138e-05 "Eurete schmidtii" 735
+1:2:108 3.88138e-05 "Euplexaura erecta" 734
+1:2:109 3.88138e-05 "Eleutherobia imaharai" 677
+1:2:110 3.88138e-05 "Echinopora ashmorensis" 660
+1:2:111 3.88138e-05 "Crispatotrochus rugosus" 511
+1:2:112 3.88138e-05 "Coronephthya macrospiculata" 489
+1:2:113 3.88138e-05 "Chondrometra crosnieri" 386
+1:2:114 3.88138e-05 "5173" 2323
+1:3:1:1 0.00232883 "5850" 2383
+1:3:1:2 0.00205713 "5851" 2384
+1:3:1:3 0.00186306 "5473" 2340
+1:3:1:4 0.000310511 "Menipea crispa" 1203
+1:3:1:5 0.000271697 "Flustramorpha marginata" 803
+1:3:1:6 0.000271697 "Discoporella umbellata" 635
+1:3:1:7 0.000232883 "Scleranthelia thomsoni" 1658
+1:3:1:8 0.000232883 "Notocoryne cervicornis" 1333
+1:3:1:9 0.000194069 "Chaperiopsis multifida" 367
+1:3:1:10 0.000194069 "Cellaria punctata" 351
+1:3:1:11 0.000194069 "Flustramorpha angusta" 802
+1:3:1:12 0.000194069 "Dactylostega prima" 554
+1:3:1:13 0.000155255 "Foveolaria imbricata" 805
+1:3:1:14 0.000155255 "Aspidostoma livida" 150
+1:3:1:15 0.000155255 "Adeonella abdita" 40
+1:3:1:16 0.000155255 "5970" 2404
+1:3:1:17 0.000155255 "Adeonella decipiens" 43
+1:3:1:18 0.000155255 "Anoteropora latirostris" 97
+1:3:1:19 0.000155255 "Smittina sitella" 1717
+1:3:1:20 0.000155255 "Arachnopusia corniculata" 132
+1:3:1:21 0.000155255 "Reteporella dinotorhynchus" 1604
+1:3:1:22 0.000155255 "Truncatoflabellum inconstans" 1941
+1:3:1:23 0.000155255 "Escharoides contorta" 711
+1:3:1:24 0.000155255 "Micropora similis" 1220
+1:3:1:25 0.000155255 "Calyptotheca nivea" 291
+1:3:1:26 0.000155255 "Celleporaria capensis" 352
+1:3:1:27 0.000155255 "Macropora africana" 1181
+1:3:1:28 0.000155255 "Lepidopora diffusa" 1103
+1:3:1:29 0.000116442 "Gigantopora foraminosa" 851
+1:3:1:30 0.000116442 "Chaperia familiaris" 364
+1:3:1:31 0.000116442 "Celleporaria tridenticulata" 354
+1:3:1:32 0.000116442 "Escharella discors" 709
+1:3:1:33 0.000116442 "Psammocinia arenosa" 1567
+1:3:1:34 0.000116442 "Errina capensis" 701
+1:3:1:35 0.000116442 "Rhynchozoon beatulum" 1626
+1:3:1:36 0.000116442 "Rhynchozoon incallidum" 1627
+1:3:1:37 0.000116442 "Trypostega venusta" 1944
+1:3:1:38 0.000116442 "Turbicellepora conica" 1947
+1:3:1:39 0.000116442 "Chaperia capensis" 363
+1:3:1:40 0.000116442 "Adeonella gibba" 45
+1:3:1:41 0.000116442 "Crisia elongata" 509
+1:3:1:42 0.000116442 "Crassimarginatella marginalis" 499
+1:3:1:43 0.000116442 "Chathamisis ramosa" 369
+1:3:1:44 7.76277e-05 "Steginoporella buskii" 1758
+1:3:1:45 7.76277e-05 "Cribrilaria innominata" 508
+1:3:1:46 3.88138e-05 "Fangophilina gilchristi" 743
+1:3:1:47 3.88138e-05 "Phorbas mollis" 1453
+1:3:1:48 3.88138e-05 "Endectyon gorgonioides" 690
+1:3:1:49 3.88138e-05 "Sigmaxinella arborea" 1683
+1:3:1:50 3.88138e-05 "Sigmaxinella incrustans" 1684
+1:3:1:51 3.88138e-05 "Ceratopsion microxephora" 357
+1:3:1:52 3.88138e-05 "5094" 2321
+1:3:2:1 0.00159137 "5725" 2362
+1:3:2:2 0.00131967 "5724" 2361
+1:3:2:3 0.000465766 "Narella gilchristi" 1313
+1:3:2:4 0.000388138 "5599" 2352
+1:3:2:5 0.000232883 "Echinoptilum echinatum" 667
+1:3:2:6 0.000194069 "Bathytelesto tubuliporoides" 240
+1:3:2:7 0.000194069 "Helicogorgia squamifera" 923
+1:3:2:8 0.000194069 "Goniocorella dumosa" 867
+1:3:2:9 0.000155255 "Astromuricea fusca" 184
+1:3:2:10 0.000116442 "Adeonella majuscula" 47
+1:3:2:11 0.000116442 "Alcyonium elegans" 56
+1:3:2:12 0.000116442 "Megerlia acrura" 1196
+1:3:2:13 0.000116442 "Terebratulina abyssicola" 1867
+1:3:2:14 7.76277e-05 "Williamsium parviflorum" 1977
+1:3:2:15 7.76277e-05 "Xenobrochus indianensis" 1985
+1:3:2:16 7.76277e-05 "Reussirella multispinata" 1606
+1:3:2:17 7.76277e-05 "Helicogorgia flagellata" 922
+1:3:2:18 7.76277e-05 "Leptothyrella ignota" 1126
+1:3:2:19 3.88138e-05 "4969" 2317
+1:3:2:20 3.88138e-05 "Conopora sola" 471
+1:3:2:21 3.88138e-05 "Scytaliopsis djiboutiensis" 1662
+1:3:2:22 3.88138e-05 "Errinopsis fenestrata" 704
+1:3:2:23 3.88138e-05 "Inferiolabiata africana" 1036
+1:3:2:24 3.88138e-05 "Denhartogia hartogi" 589
+1:3:2:25 3.88138e-05 "Crateromorpha lankesteri" 502
+1:3:2:26 3.88138e-05 "Rhynchozoon stomachosum" 1629
+1:3:2:27 3.88138e-05 "Smittoidea calcarata" 1718
+1:3:2:28 3.88138e-05 "Xenobrochus agulhasensis" 1982
+1:3:2:29 3.88138e-05 "Conopora tenuiramus" 472
+1:3:2:30 3.88138e-05 "Anthomastus giganteus" 107
+1:3:2:31 3.88138e-05 "Bugulella problematica" 266
+1:3:3:1 0.00155255 "5472" 2339
+1:3:3:2 0.00131967 "5220" 2325
+1:3:3:3 0.00050458 "Trochocyathus rawsonii" 1934
+1:3:3:4 0.000271697 "Pourtalopsammia togata" 1546
+1:3:3:5 0.000232883 "Smitticellaria tectiformis" 1713
+1:3:3:6 0.000194069 "Setosellina roulei" 1679
+1:3:3:7 0.000194069 "Xenobrochus africanus" 1981
+1:3:3:8 0.000155255 "Adeonella cracens" 41
+1:3:3:9 0.000155255 "Characodoma protrusum" 368
+1:3:3:10 0.000155255 "Parasphaerasclera morifera" 1395
+1:3:3:11 3.88138e-05 "Raxifabia longicaulis" 1601
+1:3:3:12 3.88138e-05 "Stylaster kenti" 1820
+1:3:3:13 3.88138e-05 "6106" 2436
+1:3:4:1 0.000543394 "5848" 2381
+1:3:4:2 0.00050458 "5975" 2409
+1:3:4:3 0.000388138 "5973" 2407
+1:3:4:4 0.000271697 "Kraussina rubra" 1081
+1:3:4:5 0.000271697 "Tethya magna" 1878
+1:3:4:6 0.000232883 "Virgularia schultzei" 1970
+1:3:4:7 0.000194069 "Isodictya grandis" 1051
+1:3:4:8 0.000194069 "5974" 2408
+1:3:4:9 0.000155255 "Gephyrophora polymorpha" 850
+1:3:4:10 0.000155255 "Amphianthus natalensis" 73
+1:3:4:11 0.000116442 "Lissodendoryx (Lissodendoryx) ternatensis" 1141
+1:3:4:12 0.000116442 "Proteleia sollasi" 1558
+1:3:4:13 7.76277e-05 "Higginsia bidentifera" 947
+1:3:4:14 7.76277e-05 "Waltherarndtia caliculatum" 1975
+1:3:4:15 3.88138e-05 "Pseudactinia plettenbergensis" 1577
+1:3:4:16 3.88138e-05 "Anthomastus grandiflorus" 108
+1:3:5:1 0.000698649 "5347" 2332
+1:3:5:2 0.00050458 "Javania lamprotichum" 1071
+1:3:5:3 0.000310511 "Sphenotrochus aurantiacus" 1731
+1:3:5:4 0.000271697 "Labyrinthocyathus delicatus" 1083
+1:3:5:5 0.000232883 "6098" 2432
+1:3:5:6 0.000194069 "Sphenotrochus gilchristi" 1732
+1:3:5:7 0.000155255 "Sphenotrochus (Sphenotrochus) aurantiacus" 1729
+1:3:5:8 0.000116442 "Stelletta horrens" 1766
+1:3:5:9 0.000116442 "Sphenotrochus (Eusthenotrochus) gilchristi" 1728
+1:3:5:10 0.000116442 "Agulhasia davidsoni" 54
+1:3:5:11 0.000116442 "Balanophyllia (Balanophyllia) capensis" 212
+1:3:5:12 7.76277e-05 "Muricella ramosa" 1276
+1:3:5:13 7.76277e-05 "5849" 2382
+1:3:5:14 3.88138e-05 "Ecionemia baculifera" 668
+1:3:6:1 0.000582208 "5598" 2351
+1:3:6:2 0.000155255 "Chlidonophora chuni" 371
+1:3:6:3 0.000116442 "Rhynchozoon ptarmicum" 1628
+1:3:6:4 0.000116442 "Carbasea mediocris" 302
+1:3:6:5 0.000116442 "Eucalathis fasciculata" 716
+1:3:6:6 7.76277e-05 "Cavernularia dedeckeri" 348
+1:3:6:7 7.76277e-05 "Dimorphocella moderna" 613
+1:3:6:8 7.76277e-05 "Virgularia mirabilis" 1969
+1:3:6:9 3.88138e-05 "Beania rediviva" 243
+1:3:6:10 3.88138e-05 "Emballotheca ambigua" 682
+1:3:6:11 3.88138e-05 "Hippoporella labiata" 963
+1:3:6:12 3.88138e-05 "Paraminabea cosmarioides" 1388
+1:3:6:13 3.88138e-05 "Stephanollona ignota" 1788
+1:4:1 0.0149433 "568" 2013
+1:4:2 0.0033768 "441" 2004
+1:4:3 0.000310511 "823" 2030
+1:4:4 0.000232883 "Porites somaliensis" 1543
+1:4:5 0.000155255 "Amorphinopsis fenestrata" 70
+1:4:6 0.000155255 "Gelliodes petrosioides" 839
+1:4:7 0.000155255 "Fasciospongia cavernosa" 756
+1:4:8 0.000116442 "Cladopsammia gracilis" 407
+1:4:9 0.000116442 "Comaster schlegelii" 462
+1:4:10 0.000116442 "Lobophytum sarcophytoides" 1173
+1:4:11 0.000116442 "Haliclona (Gellius) fibulata" 895
+1:4:12 0.000116442 "Montipora granulosa" 1254
+1:4:13 0.000116442 "Niphates obtusispiculifera" 1332
+1:4:14 0.000116442 "Axinella tenuidigitata" 207
+1:4:15 0.000116442 "Pione vastifica" 1463
+1:4:16 0.000116442 "Porites compressa" 1527
+1:4:17 0.000116442 "Spongia (Spongia) ceylonensis" 1742
+1:4:18 0.000116442 "Racodiscula sceptrellifera" 1590
+1:4:19 7.76277e-05 "Callyspongia clathrata" 283
+1:4:20 7.76277e-05 "Rhabderemia acanthostyla" 1610
+1:4:21 7.76277e-05 "Porites fragosa" 1529
+1:4:22 7.76277e-05 "Porites exserta" 1528
+1:4:23 7.76277e-05 "Chalinula camerata" 362
+1:4:24 7.76277e-05 "Chondrilla sacciformis" 376
+1:4:25 7.76277e-05 "Spongionella tubulosa" 1746
+1:4:26 7.76277e-05 "Spongosorites lapidiformis" 1748
+1:4:27 7.76277e-05 "Petromica (Petromica) massalis" 1437
+1:4:28 7.76277e-05 "Paracyathus andersoni" 1374
+1:4:29 7.76277e-05 "Oceanapia sagittaria" 1341
+1:4:30 7.76277e-05 "Oceanapia arenosa" 1337
+1:4:31 7.76277e-05 "Thalamoporella rozieri" 1885
+1:4:32 7.76277e-05 "Mycale (Carmia) tenuispiculata" 1283
+1:4:33 7.76277e-05 "Montipora verrilli" 1273
+1:4:34 7.76277e-05 "Montipora spongiosa" 1266
+1:4:35 7.76277e-05 "Cliona ensifera" 435
+1:4:36 7.76277e-05 "Montipora manauliensis" 1260
+1:4:37 7.76277e-05 "Timea moorei" 1914
+1:4:38 7.76277e-05 "Montipora explanata" 1249
+1:4:39 7.76277e-05 "Montipora elschneri" 1248
+1:4:40 7.76277e-05 "Menella praelonga" 1202
+1:4:41 7.76277e-05 "Higginsia higgini" 948
+1:4:42 7.76277e-05 "Haliclona tenuiramosa" 915
+1:4:43 7.76277e-05 "Haliclona pigmentifera" 913
+1:4:44 7.76277e-05 "Zyzzya papillata" 1997
+1:4:45 7.76277e-05 "Gelliodes pumila" 840
+1:4:46 7.76277e-05 "Fasciospongia anomala" 755
+1:4:47 7.76277e-05 "Fascaplysinopsis reticulata" 754
+1:4:48 7.76277e-05 "Endopsammia philippensis" 692
+1:4:49 7.76277e-05 "Endectyon (Endectyon) fruticosum" 686
+1:4:50 7.76277e-05 "Electra indica" 675
+1:4:51 7.76277e-05 "Discodermia sinuosa" 633
+1:4:52 7.76277e-05 "Discodermia papillata" 632
+1:4:53 3.88138e-05 "Desmanthus rhabdophorus" 594
+1:4:54 3.88138e-05 "Discodermia laevidiscus" 631
+1:4:55 3.88138e-05 "Dercitus (Stoeba) simplex" 592
+1:4:56 3.88138e-05 "Dercitus (Stoeba) extensus" 590
+1:4:57 3.88138e-05 "Dotona pulchella" 643
+1:4:58 3.88138e-05 "Echinoclathria rimosa" 650
+1:4:59 3.88138e-05 "Echinodictyum flabelliforme" 652
+1:4:60 3.88138e-05 "Echinogorgia complexa" 654
+1:4:61 3.88138e-05 "Echinogorgia reticulata" 655
+1:4:62 3.88138e-05 "Delectona higgini" 568
+1:4:63 3.88138e-05 "Ellisella andamanensis" 679
+1:4:64 3.88138e-05 "Darwinella muelleri" 563
+1:4:65 3.88138e-05 "Endectyon (Endectyon) hornelli" 687
+1:4:66 3.88138e-05 "Damiria simplex" 559
+1:4:67 3.88138e-05 "Erylus carteri" 705
+1:4:68 3.88138e-05 "Eurypon sessile" 738
+1:4:69 3.88138e-05 "Eurypon unispiculum" 739
+1:4:70 3.88138e-05 "Damiria fistulata" 558
+1:4:71 3.88138e-05 "Cyamon quinqueradiatum" 535
+1:4:72 3.88138e-05 "Annulastrella schmidti" 94
+1:4:73 3.88138e-05 "Favites melicerum" 766
+1:4:74 3.88138e-05 "Annulastrella annulata" 93
+1:4:75 3.88138e-05 "Cyamon quadriradiatum" 534
+1:4:76 3.88138e-05 "Geodia areolata" 841
+1:4:77 3.88138e-05 "Geodia inconspicua" 844
+1:4:78 3.88138e-05 "Geodia perarmata" 846
+1:4:79 3.88138e-05 "Geodia picteti" 847
+1:4:80 3.88138e-05 "Geodia ramodigitata" 848
+1:4:81 3.88138e-05 "Halichondria (Halichondria) glabrata" 888
+1:4:82 3.88138e-05 "Halichondria (Halichondria) nigrocutis" 889
+1:4:83 3.88138e-05 "Culicia rubeola" 530
+1:4:84 3.88138e-05 "Haliclona madrepora" 911
+1:4:85 3.88138e-05 "Crella (Yvesia) aceratospiculum" 506
+1:4:86 3.88138e-05 "Haliclona semifibrosa" 914
+1:4:87 3.88138e-05 "Corallistes verrucosa" 478
+1:4:88 3.88138e-05 "Halisarca rubitingens" 917
+1:4:89 3.88138e-05 "Hemimycale topsenti" 930
+1:4:90 3.88138e-05 "Hexadella purpurea" 945
+1:4:91 3.88138e-05 "Corallistes elegantissima" 477
+1:4:92 3.88138e-05 "Aplysina lacunosa" 128
+1:4:93 3.88138e-05 "Hymedesmia (Hymedesmia) mertoni" 1027
+1:4:94 3.88138e-05 "Hymedesmia (Hymedesmia) stylophora" 1028
+1:4:95 3.88138e-05 "Hymeniacidon petrosioides" 1029
+1:4:96 3.88138e-05 "Ircinia aruensis" 1044
+1:4:97 3.88138e-05 "Ircinia arundinacea" 1045
+1:4:98 3.88138e-05 "Ircinia cactiformis" 1046
+1:4:99 3.88138e-05 "Ircinia fusca" 1047
+1:4:100 3.88138e-05 "Ircinia pellita" 1049
+1:4:101 3.88138e-05 "Jaspis investigatrix" 1065
+1:4:102 3.88138e-05 "Jaspis reptans" 1068
+1:4:103 3.88138e-05 "Lissodendoryx (Ectyodoryx) lissostyla" 1135
+1:4:104 3.88138e-05 "Lissodendoryx (Lissodendoryx) infrequens" 1138
+1:4:105 3.88138e-05 "Lobophytum variatum" 1174
+1:4:106 3.88138e-05 "Corallistes aculeata" 475
+1:4:107 3.88138e-05 "Monocrepidium eruca" 1238
+1:4:108 3.88138e-05 "Montipora edwardsi" 1246
+1:4:109 3.88138e-05 "Cliothosa quadrata" 442
+1:4:110 3.88138e-05 "Cliothosa aurivillii" 440
+1:4:111 3.88138e-05 "Montipora exserta" 1250
+1:4:112 3.88138e-05 "Cliona mucronata" 438
+1:4:113 3.88138e-05 "Montipora jonesi" 1258
+1:4:114 3.88138e-05 "Cliona lobata" 437
+1:4:115 3.88138e-05 "Cliona annulifera" 433
+1:4:116 3.88138e-05 "Clathria (Thalysias) longitoxa" 427
+1:4:117 3.88138e-05 "Mycale (Aegogropila) contarenii" 1277
+1:4:118 3.88138e-05 "Mycale (Aegogropila) sulevoidea" 1280
+1:4:119 3.88138e-05 "Clathria (Microciona) rhopalophora" 425
+1:4:120 3.88138e-05 "Mycale (Mycale) gravelyi" 1286
+1:4:121 3.88138e-05 "Mycale (Mycale) madraspatana" 1287
+1:4:122 3.88138e-05 "Mycale (Mycale) monanchorata" 1288
+1:4:123 3.88138e-05 "Mycale (Paresperella) bidentata" 1290
+1:4:124 3.88138e-05 "Mycale (Paresperella) serratohamata" 1291
+1:4:125 3.88138e-05 "Neodexiospira foraminosa" 1320
+1:4:126 3.88138e-05 "Nethea nana" 1328
+1:4:127 3.88138e-05 "Nicella dichotoma" 1330
+1:4:128 3.88138e-05 "Clathria (Microciona) bulboretorta" 424
+1:4:129 3.88138e-05 "Clathria (Microciona) atrasanguinea" 423
+1:4:130 3.88138e-05 "Clathria (Clathria) gorgonioides" 416
+1:4:131 3.88138e-05 "Oceanapia zoologica" 1343
+1:4:132 3.88138e-05 "Clathria (Clathria) decumbens" 415
+1:4:133 3.88138e-05 "Penares dendyi" 1422
+1:4:134 3.88138e-05 "Clathria (Clathria) antyaja" 414
+1:4:135 3.88138e-05 "Petrosia (Strongylophora) durissima" 1440
+1:4:136 3.88138e-05 "Phakellia crassistylifera" 1441
+1:4:137 3.88138e-05 "Phakellia symmetrica" 1443
+1:4:138 3.88138e-05 "Phakettia ridleyi" 1444
+1:4:139 3.88138e-05 "Ciocalypta penicillus" 399
+1:4:140 3.88138e-05 "Polycyathus verrilli" 1514
+1:4:141 3.88138e-05 "Cinachyrella hirsuta" 395
+1:4:142 3.88138e-05 "Cerbaris curvispiculifer" 358
+1:4:143 3.88138e-05 "Callyspongia pambanensis" 287
+1:4:144 3.88138e-05 "Porites mannarensis" 1535
+1:4:145 3.88138e-05 "Prosuberites conulosus" 1557
+1:4:146 3.88138e-05 "Protosuberites lacustris" 1559
+1:4:147 3.88138e-05 "Psammochela fibrosa" 1566
+1:4:148 3.88138e-05 "Psammogorgia flabellum" 1575
+1:4:149 3.88138e-05 "Callyspongia fistularis" 285
+1:4:150 3.88138e-05 "Racodiscula spinispirulifera" 1591
+1:4:151 3.88138e-05 "Callyspongia (Euplacella) communis" 281
+1:4:152 3.88138e-05 "Rhabderemia indica" 1611
+1:4:153 3.88138e-05 "Rhabderemia prolifera" 1612
+1:4:154 3.88138e-05 "Scalarispongia scalaris" 1654
+1:4:155 3.88138e-05 "Sigmeurypon fascispiculiferum" 1685
+1:4:156 3.88138e-05 "Sinularia granosa" 1695
+1:4:157 3.88138e-05 "Sinularia manaarensis" 1700
+1:4:158 3.88138e-05 "Siphonodictyon diagonoxeum" 1710
+1:4:159 3.88138e-05 "Spirastrella coccinea" 1734
+1:4:160 3.88138e-05 "Callyspongia (Cladochalina) thurstoni" 280
+1:4:161 3.88138e-05 "Spongia (Spongia) officinalis" 1743
+1:4:162 3.88138e-05 "Callyspongia (Cladochalina) spinosissima" 279
+1:4:163 3.88138e-05 "Spongosorites cavernicola" 1747
+1:4:164 3.88138e-05 "Callyspongia (Callyspongia) barodensis" 274
+1:4:165 3.88138e-05 "Stelletta agglutinans" 1761
+1:4:166 3.88138e-05 "Stelletta tethyopsis" 1771
+1:4:167 3.88138e-05 "Stelletta vestigium" 1772
+1:4:168 3.88138e-05 "Terpios fugax" 1871
+1:4:169 3.88138e-05 "Terpios vestigium" 1872
+1:4:170 3.88138e-05 "Axinella labyrinthica" 204
+1:4:171 3.88138e-05 "Thesea flava" 1903
+1:4:172 3.88138e-05 "Thoosa socialis" 1906
+1:4:173 3.88138e-05 "Timea capitatostellifera" 1913
+1:4:174 3.88138e-05 "Axinella halichondrioides" 203
+1:4:175 3.88138e-05 "Timea spinatostellifera" 1915
+1:4:176 3.88138e-05 "Timea trigonostellata" 1919
+1:4:177 3.88138e-05 "Triptolemma intextum" 1929
+1:4:178 3.88138e-05 "Turbinaria undata" 1952
+1:4:179 3.88138e-05 "Aulospongus tubulatus" 200
+1:4:180 3.88138e-05 "Asteropus haeckeli" 157
+1:4:181 3.88138e-05 "Artemisina indica" 139
+1:4:182 3.88138e-05 "Hymedesmia (Hymedesmia) mannarensis" 1025
+1:5:1 0.00108679 "6983" 2498
+1:5:2 0.00104797 "Cancellothyris hedleyi" 297
+1:5:3 0.00100916 "6728" 2489
+1:5:4 0.000970346 "6211" 2448
+1:5:5 0.000776277 "Herdmania momus" 932
+1:5:6 0.000621022 "6215" 2452
+1:5:7 0.000582208 "Botrylloides leachii" 258
+1:5:8 0.000465766 "6214" 2451
+1:5:9 0.000426952 "6213" 2450
+1:5:10 0.000426952 "Polycarpa viridis" 1513
+1:5:11 0.000388138 "Holopsamma laminaefavosa" 976
+1:5:12 0.000349325 "6088" 2430
+1:5:13 0.000349325 "5938" 2392
+1:5:14 0.000349325 "Magellania flavescens" 1187
+1:5:15 0.000310511 "6343" 2464
+1:5:16 0.000310511 "7239" 2507
+1:5:17 0.000310511 "Actinia tenebrosa" 34
+1:5:18 0.000310511 "Botryllus schlosseri" 259
+1:5:19 0.000310511 "Spirobranchus taeniatus" 1740
+1:5:20 0.000271697 "Sycozoa murrayi" 1840
+1:5:21 0.000271697 "6855" 2494
+1:5:22 0.000271697 "Polycarpa flava" 1509
+1:5:23 0.000271697 "Pyura stolonifera" 1589
+1:5:24 0.000271697 "Selenaria punctata" 1666
+1:5:25 0.000271697 "Goniocidaris sibogae" 866
+1:5:26 0.000232883 "7238" 2506
+1:5:27 0.000232883 "6212" 2449
+1:5:28 0.000232883 "Raspailia (Parasyringella) nuda" 1595
+1:5:29 0.000194069 "6086" 2428
+1:5:30 0.000194069 "Dendrilla cactos" 578
+1:5:31 0.000194069 "6085" 2427
+1:5:32 0.000194069 "5960" 2403
+1:5:33 0.000194069 "Stephanocyathus platypus" 1784
+1:5:34 0.000155255 "Halocynthia dumosa" 918
+1:5:35 0.000155255 "Sycozoa sigillinoides" 1842
+1:5:36 0.000155255 "Scuticella plagiostoma" 1660
+1:5:37 0.000155255 "Trididemnum titanium" 1928
+1:5:38 0.000155255 "Ascidia challengeri" 148
+1:5:39 0.000155255 "6601" 2485
+1:5:40 0.000155255 "6376" 2466
+1:5:41 0.000116442 "Vermiliopsis infundibulum" 1965
+1:5:42 0.000116442 "6856" 2495
+1:5:43 0.000116442 "6727" 2488
+1:5:44 0.000116442 "6600" 2484
+1:5:45 0.000116442 "Polycarpa rigida" 1512
+1:5:46 7.76277e-05 "Anthothoe albocincta" 112
+1:5:47 7.76277e-05 "Cornucopina tuba" 487
+1:5:48 7.76277e-05 "Hexapathes australiensis" 946
+1:5:49 7.76277e-05 "Rhopalaea meridionalis" 1622
+1:5:50 7.76277e-05 "5833" 2380
+1:5:51 7.76277e-05 "Microgastra granosa" 1216
+1:5:52 7.76277e-05 "5699" 2359
+1:5:53 7.76277e-05 "Aplidium laticum" 123
+1:5:54 7.76277e-05 "Synoicum citrum" 1849
+1:5:55 3.88138e-05 "6087" 2429
+1:5:56 3.88138e-05 "Atriolum irregulare" 190
+1:5:57 3.88138e-05 "Ascidia thompsoni" 149
+1:5:58 3.88138e-05 "Gorgonocephalus dolichodactylus" 878
+1:5:59 3.88138e-05 "Sphaerokodisis tenuis" 1723
+1:5:60 3.88138e-05 "Didemnum spadix" 609
+1:5:61 3.88138e-05 "7111" 2501
+1:5:62 3.88138e-05 "7236" 2504
+1:5:63 3.88138e-05 "Gyrophyllum sibogae" 886
+1:5:64 3.88138e-05 "Epizoanthus karenae" 697
+1:5:65 3.88138e-05 "7365" 2509
+1:5:66 3.88138e-05 "5827" 2377
+1:5:67 3.88138e-05 "6342" 2463
+1:6:1 0.00229002 "2068" 2093
+1:6:2 0.00108679 "2322" 2112
+1:6:3 0.000737463 "Hyrtios erectus" 1030
+1:6:4 0.000698649 "Acanthella cavernosa" 18
+1:6:5 0.000582208 "2447" 2119
+1:6:6 0.00050458 "Lamellodysidea herbacea" 1085
+1:6:7 0.000426952 "Pseudoceratina purpurea" 1579
+1:6:8 0.000349325 "Spheciospongia inconstans" 1727
+1:6:9 0.000349325 "Hemiasterella bouilloni" 926
+1:6:10 0.000349325 "Iotrochota purpurea" 1043
+1:6:11 0.000232883 "Monanchora unguiculata" 1236
+1:6:12 0.000232883 "1732" 2081
+1:6:13 0.000194069 "Amorphinopsis excavans" 69
+1:6:14 0.000194069 "Biemna tubulata" 251
+1:6:15 0.000194069 "Fasciospongia seychellensis" 759
+1:6:16 0.000194069 "Amphimedon chloros" 76
+1:6:17 0.000155255 "Chondrilla nucula" 375
+1:6:18 0.000155255 "Higginsia petrosioides" 952
+1:6:19 0.000155255 "Spirastrella pachyspira" 1736
+1:6:20 0.000155255 "Mycale grandis" 1294
+1:6:21 0.000116442 "Ciocalypta digitata" 398
+1:6:22 0.000116442 "Placospongia carinata" 1466
+1:6:23 7.76277e-05 "Thalamoporella tubifera" 1886
+1:6:24 7.76277e-05 "Geodia globostellifera" 843
+1:6:25 7.76277e-05 "Clathria (Clathria) maeandrina" 418
+1:6:26 7.76277e-05 "Clathria (Thalysias) amirantiensis" 426
+1:6:27 3.88138e-05 "1198" 2056
+1:6:28 3.88138e-05 "Farrea densa" 748
+1:6:29 3.88138e-05 "Haliclona (Reniera) tufoides" 905
+1:7:1 0.00209595 "2054" 2091
+1:7:2 0.00201832 "2179" 2098
+1:7:3 0.000776277 "1926" 2086
+1:7:4 0.000310511 "1927" 2087
+1:7:5 7.76277e-05 "Acanthostylotella cornuta" 24
+1:7:6 7.76277e-05 "Aulospongus flabellum" 199
+1:7:7 7.76277e-05 "Amphimedon navalis" 79
+1:7:8 7.76277e-05 "Biemna fistulosa" 247
+1:7:9 7.76277e-05 "Callyspongia (Callyspongia) pulitzeri" 275
+1:7:10 7.76277e-05 "Callyspongia abnormis" 282
+1:7:11 7.76277e-05 "Callyspongia contorta" 284
+1:7:12 7.76277e-05 "Callyspongia hirta" 286
+1:7:13 7.76277e-05 "Callyspongia perforata" 288
+1:7:14 7.76277e-05 "Callyspongia violacea" 289
+1:7:15 7.76277e-05 "Calyx infundibulum" 292
+1:7:16 7.76277e-05 "Amphimedon rubida" 80
+1:7:17 7.76277e-05 "Xestospongia informis" 1988
+1:7:18 7.76277e-05 "Cliothosa hancocki" 441
+1:7:19 7.76277e-05 "Coelosphaera (Coelosphaera) crumena" 450
+1:7:20 7.76277e-05 "Coelosphaera (Coelosphaera) navicelligera" 451
+1:7:21 7.76277e-05 "Crambe erecta" 496
+1:7:22 7.76277e-05 "Crella shimonii" 507
+1:7:23 7.76277e-05 "Desmapsamma anchorata" 595
+1:7:24 7.76277e-05 "Erylus globulifer" 706
+1:7:25 7.76277e-05 "Xestospongia clavata" 1986
+1:7:26 7.76277e-05 "Thenea tyla" 1901
+1:7:27 7.76277e-05 "Haliclona (Haliclona) gustavopulitzeri" 899
+1:7:28 7.76277e-05 "Haliclona (Reniera) atra" 901
+1:7:29 7.76277e-05 "Thenea malindiae" 1894
+1:7:30 7.76277e-05 "Haliclona (Soestella) implexa" 906
+1:7:31 7.76277e-05 "Tethyopsis plurima" 1879
+1:7:32 7.76277e-05 "Hemiasterella magna" 927
+1:7:33 7.76277e-05 "Tabulocalyx pedunculatus" 1854
+1:7:34 7.76277e-05 "Higginsia lamella" 950
+1:7:35 7.76277e-05 "Higginsia pulcherrima" 953
+1:7:36 7.76277e-05 "Jaspis manihinei" 1066
+1:7:37 7.76277e-05 "Lissodendoryx (Lissodendoryx) isodictyalis" 1139
+1:7:38 7.76277e-05 "Lithoplocamia indica" 1147
+1:7:39 7.76277e-05 "Lithoplocamia minor" 1149
+1:7:40 7.76277e-05 "Lithoplocamia tuberculata" 1150
+1:7:41 7.76277e-05 "Manihinea conferta" 1191
+1:7:42 7.76277e-05 "Mycale (Aegogropila) crassissima" 1278
+1:7:43 7.76277e-05 "Stelletta digitata" 1765
+1:7:44 7.76277e-05 "Negombata kenyensis" 1317
+1:7:45 7.76277e-05 "Oceanapia exigua" 1338
+1:7:46 7.76277e-05 "Sansibia flava" 1637
+1:7:47 7.76277e-05 "Petrosia (Petrosia) shellyi" 1439
+1:7:48 7.76277e-05 "Phorbas frutex" 1452
+1:7:49 7.76277e-05 "Phorbas palmatus" 1454
+1:7:50 7.76277e-05 "Raspailia colorans" 1599
+1:7:51 3.88138e-05 "Oceanapia globosa" 1339
+1:7:52 3.88138e-05 "Stelletta brevioxea" 1762
+1:7:53 3.88138e-05 "Mycale multisclera" 1298
+1:7:54 3.88138e-05 "Amphimedon spinosa" 82
+1:7:55 3.88138e-05 "Haliclona cavernosa" 908
+1:7:56 3.88138e-05 "Haliclona (Reniera) debilis" 903
+1:7:57 3.88138e-05 "Haliclona (Gellius) cellaria" 894
+1:7:58 3.88138e-05 "Geodia spheranthastra" 849
+1:7:59 3.88138e-05 "Cladocroce tubulosa" 405
+1:7:60 3.88138e-05 "Xestospongia tuberosa" 1990
+1:7:61 3.88138e-05 "Amphimedon rubiginosa" 81
+1:7:62 3.88138e-05 "Calyx nyaliensis" 294
+1:7:63 3.88138e-05 "Axinyssa tenax" 211
+1:7:64 3.88138e-05 "Higginsia kenyensis" 949
+1:8:1 0.00360969 "795" 2024
+1:8:2 0.000194069 "Pseudosuberites andrewsi" 1583
+1:8:3 0.000194069 "Acarnus ternatus" 27
+1:8:4 0.000116442 "Mycale (Mycale) grandis" 1285
+1:8:5 0.000116442 "Agelas ceylonica" 50
+1:8:6 0.000116442 "Amorphinopsis foetida" 71
+1:8:7 0.000116442 "Spirastrella curvistellifera" 1735
+1:8:8 0.000116442 "Stellitethya repens" 1774
+1:8:9 0.000116442 "Biemna fortis" 248
+1:8:10 0.000116442 "Stylissa conulosa" 1822
+1:8:11 0.000116442 "Clathria (Clathria) spongodes" 419
+1:8:12 0.000116442 "Oceanapia seychellensis" 1342
+1:8:13 0.000116442 "Paratetilla bacca" 1400
+1:8:14 0.000116442 "Lissodendoryx (Waldoschmittia) schmidti" 1142
+1:8:15 0.000116442 "Stellettinopsis laviniensis" 1773
+1:8:16 0.000116442 "Cliona viridis" 439
+1:8:17 0.000116442 "Timea stellivarians" 1918
+1:8:18 0.000116442 "Geodia lindgreni" 845
+1:8:19 0.000116442 "Cyamon vickersii" 536
+1:8:20 0.000116442 "Dercitus (Stoeba) plicatus" 591
+1:8:21 7.76277e-05 "Topsentia salomonensis" 1923
+1:8:22 7.76277e-05 "Echinodictyum clathratum" 651
+1:8:23 7.76277e-05 "Eurypon encrusta" 736
+1:8:24 7.76277e-05 "Cornulella lundbecki" 488
+1:8:25 7.76277e-05 "Haliclona (Haliclona) cribriformis" 898
+1:8:26 7.76277e-05 "Coelosphaera (Coelosphaera) ramosa" 452
+1:8:27 7.76277e-05 "Cliona celata" 434
+1:8:28 7.76277e-05 "Jaspis penetrans" 1067
+1:8:29 7.76277e-05 "Timea stellata" 1916
+1:8:30 7.76277e-05 "Cinachyrella tarentina" 397
+1:8:31 7.76277e-05 "Thoosa armata" 1904
+1:8:32 7.76277e-05 "Acarnus souriei" 26
+1:8:33 7.76277e-05 "Myxilla (Myxilla) seychellensis" 1308
+1:8:34 7.76277e-05 "Tethya diploderma" 1876
+1:8:35 7.76277e-05 "Callyspongia (Cladochalina) fibrosa" 278
+1:8:36 7.76277e-05 "Pione carpenteri" 1461
+1:8:37 7.76277e-05 "Pione margaritiferae" 1462
+1:8:38 7.76277e-05 "Acanthotetilla seychellensis" 25
+1:8:39 7.76277e-05 "Biemna seychellensis" 249
+1:8:40 7.76277e-05 "Rhabdastrella oxytoxa" 1607
+1:8:41 7.76277e-05 "Axinella minor" 206
+1:8:42 7.76277e-05 "Samus anonymus" 1635
+1:8:43 7.76277e-05 "Sarcotragus aliger" 1653
+1:8:44 7.76277e-05 "Siphonodictyon minutum" 1711
+1:8:45 7.76277e-05 "Haliclona (Reniera) cribricutis" 902
+1:8:46 7.76277e-05 "Spongosorites niger" 1749
+1:8:47 7.76277e-05 "Stelletta cylindrica" 1764
+1:8:48 7.76277e-05 "Timea stelligera" 1917
+1:8:49 3.88138e-05 "Rhabdastrella rowi" 1609
+1:8:50 3.88138e-05 "Raspailia (Raspailia) viminalis" 1596
+1:8:51 3.88138e-05 "Neopetrosia retiderma" 1323
+1:8:52 3.88138e-05 "Lithoplocamia lithistoides" 1148
+1:8:53 3.88138e-05 "Thoosa radiata" 1905
+1:8:54 3.88138e-05 "Leiodermatium pfeifferae" 1097
+1:8:55 3.88138e-05 "Jaspis digonoxea" 1064
+1:8:56 3.88138e-05 "Hyattella cribriformis" 1013
+1:8:57 3.88138e-05 "Diacarnus laevis" 599
+1:8:58 3.88138e-05 "Crella (Grayella) cyathophora" 504
+1:8:59 3.88138e-05 "4166" 2264
+1:8:60 3.88138e-05 "Biemna variantia" 252
+1:8:61 3.88138e-05 "Biemna truncata" 250
+1:8:62 3.88138e-05 "Amphimedon hispidula" 77
+1:8:63 3.88138e-05 "2205" 2103
+1:9:1 0.00655954 "5093" 2320
+1:9:2 0.000116442 "Anthelia glauca" 102
+1:9:3 0.000116442 "Sinularia hirta" 1699
+1:9:4 7.76277e-05 "Xenia crassa" 1978
+1:9:5 7.76277e-05 "Trachycladus spinispirulifer" 1924
+1:9:6 7.76277e-05 "Astreopora incrustans" 171
+1:9:7 7.76277e-05 "Cladiella australis" 401
+1:9:8 7.76277e-05 "Palythoa natalensis" 1368
+1:9:9 7.76277e-05 "Cladiella krempfi" 403
+1:9:10 7.76277e-05 "Heteroxenia fuscescens" 944
+1:9:11 7.76277e-05 "Lobophytum depressum" 1169
+1:9:12 7.76277e-05 "Bugulella gracilis" 265
+1:9:13 7.76277e-05 "Sinularia abrupta" 1687
+1:9:14 7.76277e-05 "Pheronema carpenteri" 1448
+1:9:15 7.76277e-05 "Sarcophyton crassum" 1644
+1:9:16 7.76277e-05 "Sinularia querciformis" 1704
+1:9:17 7.76277e-05 "Sinularia firma" 1693
+1:9:18 3.88138e-05 "Acanthastrea simplex" 16
+1:9:19 3.88138e-05 "Sinularia gyrosa" 1697
+1:9:20 3.88138e-05 "Scyphopodium ingolfi" 1661
+1:9:21 3.88138e-05 "Sinularia notanda" 1702
+1:9:22 3.88138e-05 "Sarcophyton infundibuliforme" 1650
+1:9:23 3.88138e-05 "Sinularia schleyeri" 1705
+1:9:24 3.88138e-05 "Sinularia triangula" 1706
+1:9:25 3.88138e-05 "Sinularia variabilis" 1707
+1:9:26 3.88138e-05 "Xenia garciae" 1979
+1:9:27 3.88138e-05 "Xenia kuekenthali" 1980
+1:9:28 3.88138e-05 "Sarcophyton flexuosum" 1648
+1:9:29 3.88138e-05 "Lobophytum venustum" 1175
+1:9:30 3.88138e-05 "Lobophytum latilobatum" 1170
+1:9:31 3.88138e-05 "Cladiella kashmani" 402
+1:9:32 3.88138e-05 "Aldersladum sodwanum" 58
+1:9:33 3.88138e-05 "Sinularia erecta" 1692
+1:10:1 0.00135848 "Desmophyllum dianthus" 597
+1:10:2 0.00100916 "6535" 2477
+1:10:3 0.000776277 "6408" 2468
+1:10:4 0.000543394 "Anthemiphyllia dentata" 104
+1:10:5 0.000388138 "Stenocyathus vermiformis" 1775
+1:10:6 0.000310511 "6662" 2486
+1:10:7 0.000310511 "Desmophyllum pertusum" 598
+1:10:8 0.000271697 "Caryophyllia (Caryophyllia) profunda" 318
+1:10:9 0.000271697 "6027" 2412
+1:10:10 0.000194069 "5739" 2365
+1:10:11 0.000194069 "Guynia annulata" 884
+1:10:12 0.000155255 "7516" 2522
+1:10:13 0.000155255 "Deltocyathus italicus" 571
+1:10:14 0.000116442 "6598" 2482
+1:10:15 0.000116442 "Caryophyllia profunda" 332
+1:10:16 0.000116442 "Desmophyllum cristagalli" 596
+1:10:17 0.000116442 "Leiopathes bullosa" 1099
+1:10:18 7.76277e-05 "Ancorella paulini" 89
+1:10:19 7.76277e-05 "Paracalyptrophora josephinae" 1372
+1:10:20 7.76277e-05 "Poecillastra tenuirhabda" 1504
+1:10:21 7.76277e-05 "6336" 2459
+1:10:22 7.76277e-05 "Dicarpa pacifica" 600
+1:10:23 7.76277e-05 "Dendrophyllia alcocki" 584
+1:10:24 7.76277e-05 "Caryophyllia sarsiae" 335
+1:10:25 7.76277e-05 "Bathyvermilia gregrousei" 241
+1:10:26 7.76277e-05 "Antipathella fiordensis" 113
+1:10:27 7.76277e-05 "Anthothela vickersi" 111
+1:10:28 3.88138e-05 "Lophelia pertusa" 1177
+1:10:29 3.88138e-05 "Molguloides monocarpa" 1232
+1:10:30 3.88138e-05 "Narella dichotoma" 1312
+1:10:31 3.88138e-05 "Placogorgia terceira" 1464
+1:10:32 3.88138e-05 "Puellina sp. 1" 1587
+1:10:33 3.88138e-05 "Farrea seiri" 752
+1:10:34 3.88138e-05 "Erylus megaster" 707
+1:10:35 3.88138e-05 "Bathypathes sp. 2" 236
+1:10:36 3.88138e-05 "Rhizaxinella durissima" 1617
+1:10:37 3.88138e-05 "Megerlina davidsoni" 1198
+1:11:1 0.00159137 "5174" 2324
+1:11:2 0.0013973 "5937" 2391
+1:11:3 0.000388138 "Stelletta clavosa" 1763
+1:11:4 0.000271697 "Retiflustra reticulum" 1605
+1:11:5 0.000194069 "6071" 2417
+1:11:6 0.000194069 "Caleschara denticulata" 269
+1:11:7 0.000155255 "6471" 2473
+1:11:8 0.000155255 "Arthropoma cecilii" 140
+1:11:9 0.000155255 "Caberea dichotoma" 268
+1:11:10 0.000155255 "Phonicosia circinata" 1451
+1:11:11 0.000116442 "Adeona albida" 39
+1:11:12 0.000116442 "Labioporella bursaria" 1082
+1:11:13 0.000116442 "Metroperiella montferrandii" 1214
+1:11:14 0.000116442 "Escharina acuminata" 710
+1:11:15 0.000116442 "Biflustra perfragilis" 254
+1:11:16 0.000116442 "Arachnopusia acanthoceros" 131
+1:11:17 7.76277e-05 "Exochella tricuspis" 741
+1:11:18 7.76277e-05 "Hippomenella bituberosa" 962
+1:11:19 7.76277e-05 "Myriopathes japonica" 1302
+1:11:20 7.76277e-05 "Escharoides excavata" 712
+1:11:21 7.76277e-05 "Phidolopora avicularis" 1450
+1:11:22 7.76277e-05 "Conescharellina crassa" 468
+1:11:23 7.76277e-05 "Carbasea pisciformis" 304
+1:11:24 7.76277e-05 "7110" 2500
+1:11:25 7.76277e-05 "Talivittaticella incomperta" 1855
+1:11:26 7.76277e-05 "Celleporina longirostris" 355
+1:11:27 7.76277e-05 "Nevianipora interjuncta" 1329
+1:11:28 7.76277e-05 "Paralicornia obtecta" 1385
+1:11:29 3.88138e-05 "Hippothoa distans" 966
+1:11:30 3.88138e-05 "Laminopora dispar" 1088
+1:11:31 3.88138e-05 "Mollia multijuncta" 1233
+1:11:32 3.88138e-05 "Parkermavella punctigera" 1404
+1:11:33 3.88138e-05 "Polysyncraton pavimentum" 1522
+1:11:34 3.88138e-05 "Steginoporella tubulosa" 1760
+1:11:35 3.88138e-05 "Canda arachnoides" 298
+1:11:36 3.88138e-05 "5700" 2360
+1:11:37 3.88138e-05 "5821" 2373
+1:11:38 3.88138e-05 "Celleporina rota" 356
+1:12:1 0.000776277 "6082" 2425
+1:12:2 0.000582208 "Caryophyllia planilamellata" 331
+1:12:3 0.000543394 "6209" 2446
+1:12:4 0.00050458 "Caryophyllia (Caryophyllia) planilamellata" 317
+1:12:5 0.000388138 "6080" 2423
+1:12:6 0.000310511 "Actinernus elongatus" 32
+1:12:7 0.000310511 "Umbellula pellucida" 1960
+1:12:8 0.000271697 "6208" 2445
+1:12:9 0.000271697 "6340" 2461
+1:12:10 0.000271697 "6470" 2472
+1:12:11 0.000232883 "Astrodia tenuispina" 182
+1:12:12 0.000232883 "6599" 2483
+1:12:13 0.000194069 "6079" 2422
+1:12:14 0.000155255 "Cornucopina grandis" 481
+1:12:15 0.000155255 "Tethya irisae" 1877
+1:12:16 0.000155255 "Callogorgia flabellum" 270
+1:12:17 0.000116442 "Anthoptilum grandiflorum" 110
+1:12:18 0.000116442 "Clavularia ramosa" 432
+1:12:19 0.000116442 "6207" 2444
+1:12:20 0.000116442 "6339" 2460
+1:12:21 7.76277e-05 "Paracalliactis rosea" 1371
+1:12:22 7.76277e-05 "Triadopathes triadocrada" 1925
+1:12:23 3.88138e-05 "Flabellum australe" 793
+1:12:24 3.88138e-05 "Laminatubus paulbrooksi" 1087
+1:12:25 3.88138e-05 "Monactis vestita" 1234
+1:12:26 3.88138e-05 "Neovermilia sphaeropomata" 1327
+1:12:27 3.88138e-05 "4226" 2268
+1:12:28 3.88138e-05 "Actinoscyphia plebeia" 35
+1:12:29 3.88138e-05 "Actinernus michaelsarsi" 33
+1:12:30 3.88138e-05 "6341" 2462
+1:12:31 3.88138e-05 "6591" 2481
+1:13:1 0.00174662 "6195" 2443
+1:13:2 0.000737463 "5429" 2338
+1:13:3 0.000310511 "4792" 2305
+1:13:4 0.000232883 "Alertigorgia mjöbergi" 59
+1:13:5 0.000232883 "Aplidium crateriferum" 120
+1:13:6 0.000232883 "Rhopalaea crassa" 1621
+1:13:7 0.000232883 "6065" 2414
+1:13:8 0.000232883 "6192" 2440
+1:13:9 0.000194069 "Polycarpa chinensis" 1508
+1:13:10 0.000155255 "Holopsamma favus" 975
+1:13:11 0.000155255 "Oceanapia macrotoxa" 1340
+1:13:12 0.000155255 "Synoicum chrysanthemum" 1848
+1:13:13 0.000116442 "Aplidium crustum" 121
+1:13:14 0.000116442 "Aplidium eudistomum" 122
+1:13:15 0.000116442 "Aplidium magnilarvum" 125
+1:13:16 0.000116442 "Condominium areolatum" 466
+1:13:17 0.000116442 "Fungiacyathus (Fungiacyathus) fragilis" 814
+1:13:18 0.000116442 "Fungiacyathus fragilis" 817
+1:13:19 0.000116442 "Leptoclinides fungiformis" 1111
+1:13:20 0.000116442 "Mesonea radians" 1209
+1:13:21 7.76277e-05 "Atriolum tubiporum" 192
+1:13:22 7.76277e-05 "Bicrisia biciliata" 245
+1:13:23 7.76277e-05 "Salmacina dysteri" 1634
+1:13:24 7.76277e-05 "Stephanocyathus (Odontocyathus) weberianus" 1780
+1:13:25 7.76277e-05 "Stephanocyathus weberianus" 1787
+1:13:26 3.88138e-05 "Bathymetra carpenteri" 228
+1:13:27 3.88138e-05 "Didemnum velum" 611
+1:13:28 3.88138e-05 "Psathyrometra fragilis" 1576
+1:13:29 3.88138e-05 "Synoicum concavitum" 1850
+1:13:30 3.88138e-05 "6572" 2479
+1:14:1 0.00147493 "2433" 2116
+1:14:2 0.00135848 "2306" 2108
+1:14:3 0.000194069 "Zoanthus sansibaricus" 1993
+1:14:4 0.000116442 "Cervicornia cuspidifera" 360
+1:14:5 0.000116442 "Astroboa clavata" 176
+1:14:6 0.000116442 "Chondrilla mixta" 374
+1:14:7 0.000116442 "Chunella gracillima" 391
+1:14:8 0.000116442 "Cigclisula occlusa" 392
+1:14:9 0.000116442 "Neopetrosia similis" 1324
+1:14:10 0.000116442 "Palythoa tropica" 1370
+1:14:11 0.000116442 "Sympodium caeruleum" 1845
+1:14:12 7.76277e-05 "Adeonella lichenoides" 46
+1:14:13 7.76277e-05 "Aulocyathus juvenescens" 198
+1:14:14 7.76277e-05 "Fangophilina hirsuta" 744
+1:14:15 7.76277e-05 "Fasciospongia operculum" 757
+1:14:16 7.76277e-05 "Flabellum (Ulocyathus) apertum" 785
+1:14:17 7.76277e-05 "Haliclona bawiana" 907
+1:14:18 7.76277e-05 "Premocyathus dentiformis" 1548
+1:14:19 7.76277e-05 "Steginoporella lateralis" 1759
+1:14:20 7.76277e-05 "Tetrapocillon minor" 1884
+1:14:21 3.88138e-05 "Caryophyllia (Acanthocyathus) zanzibarensis" 310
+1:14:22 3.88138e-05 "Cinachyrella arabica" 394
+1:14:23 3.88138e-05 "Fariometra liobrachia" 746
+1:14:24 3.88138e-05 "Spheciospongia florida" 1726
+1:14:25 3.88138e-05 "Tetilla sansibarica" 1883
+1:14:26 3.88138e-05 "Thenea pendula" 1899
+1:14:27 3.88138e-05 "Thenea rotunda" 1900
+1:14:28 3.88138e-05 "2312" 2109
+1:15:1 0.00100916 "Stylissa carteri" 1821
+1:15:2 0.000698649 "566" 2011
+1:15:3 0.00050458 "565" 2010
+1:15:4 0.000349325 "562" 2008
+1:15:5 0.000271697 "1859" 2085
+1:15:6 0.000232883 "Dragmacidon agariciforme" 644
+1:15:7 0.000194069 "Axinella donnani" 202
+1:15:8 0.000155255 "Axinella manus" 205
+1:15:9 0.000155255 "Callyspongia (Cladochalina) diffusa" 277
+1:15:10 0.000116442 "Gelliodes carnosa" 836
+1:15:11 0.000116442 "Myxilla (Ectyomyxilla) arenaria" 1303
+1:15:12 0.000116442 "Spongionella nigra" 1744
+1:15:13 0.000116442 "442" 2005
+1:15:14 7.76277e-05 "Antho (Plocamia) manaarensis" 106
+1:15:15 7.76277e-05 "Auletta aurantiaca" 193
+1:15:16 7.76277e-05 "Auletta lyrata" 195
+1:15:17 7.76277e-05 "Axinella ceylonensis" 201
+1:15:18 7.76277e-05 "Clathria (Clathria) indica" 417
+1:15:19 7.76277e-05 "Cupuladria guineensis" 533
+1:15:20 7.76277e-05 "Echinodictyum longistylum" 653
+1:15:21 7.76277e-05 "Endectyon (Endectyon) lamellosum" 688
+1:15:22 7.76277e-05 "Gelliodes incrustans" 837
+1:15:23 7.76277e-05 "Terpios cruciatus" 1870
+1:16:1 0.00104797 "Ditrupa gracillima" 640
+1:16:2 0.000698649 "4161" 2260
+1:16:3 0.000426952 "4162" 2261
+1:16:4 0.000426952 "4286" 2273
+1:16:5 0.000271697 "Fungiacyathus (Fungiacyathus) paliferus" 815
+1:16:6 0.000271697 "Flabellum (Flabellum) politum" 783
+1:16:7 0.000271697 "Zygometra andromeda" 1994
+1:16:8 0.000232883 "Flabellum (Flabellum) folkesoni" 778
+1:16:9 0.000232883 "Metacrinus rotundus" 1210
+1:16:10 0.000155255 "Petrosia (Petrosia) nigricans" 1438
+1:16:11 0.000155255 "3911" 2242
+1:16:12 0.000116442 "Virgularia gustaviana" 1968
+1:16:13 0.000116442 "4037" 2250
+1:16:14 7.76277e-05 "Nemaster grandis" 1319
+1:16:15 7.76277e-05 "Tetilla hebes" 1881
+1:16:16 3.88138e-05 "Mariametra subcarinata" 1193
+1:16:17 3.88138e-05 "4032" 2246
+1:17:1 0.00155255 "5811" 2372
+1:17:2 0.00104797 "5684" 2358
+1:17:3 0.000388138 "Sigillina grandissima" 1682
+1:17:4 0.000232883 "5957" 2402
+1:17:5 0.000155255 "Antho (Antho) tuberosa" 105
+1:17:6 0.000116442 "Eudistoma globosum" 724
+1:17:7 0.000116442 "Eudistoma pyriforme" 725
+1:17:8 0.000116442 "Lissoclinum ostrearium" 1134
+1:17:9 7.76277e-05 "Epizoanthus sabulosus" 699
+1:17:10 7.76277e-05 "Pennatula fimbriata" 1425
+1:17:11 7.76277e-05 "Haliclona (Haliclona) oculata" 900
+1:17:12 7.76277e-05 "Pyura scortea" 1588
+1:17:13 7.76277e-05 "Aplidium lenticulum" 124
+1:17:14 7.76277e-05 "Elzerina blainvillii" 681
+1:17:15 7.76277e-05 "7589" 2532
+1:17:16 7.76277e-05 "Capnella gaboensis" 300
+1:17:17 3.88138e-05 "Synoicum longistriatum" 1852
+1:17:18 3.88138e-05 "Amphidiscella hosiei" 74
+1:17:19 3.88138e-05 "Calyptorete falkorae" 290
+1:17:20 3.88138e-05 "Manihinea lynbeazleyae" 1192
+1:17:21 3.88138e-05 "Rhabdocalyptus gomezi" 1614
+1:18:1 0.000582208 "Xestospongia testudinaria" 1989
+1:18:2 0.000543394 "Comatella stelligera" 463
+1:18:3 0.000426952 "4164" 2263
+1:18:4 0.000349325 "Ianthella flabelliformis" 1031
+1:18:5 0.000310511 "Ectyoplasia vannus" 673
+1:18:6 0.000271697 "3659" 2221
+1:18:7 0.000232883 "3913" 2244
+1:18:8 0.000232883 "Spirobranchus latiscapus" 1739
+1:18:9 0.000155255 "Raspailia (Parasyringella) elegans" 1594
+1:18:10 0.000155255 "Raspailia elegans" 1600
+1:18:11 0.000116442 "Dendrilla membranosa" 579
+1:18:12 0.000116442 "4290" 2277
+1:18:13 7.76277e-05 "Leptoclinides echinus" 1110
+1:18:14 7.76277e-05 "3788" 2234
+1:18:15 7.76277e-05 "4282" 2271
+1:18:16 7.76277e-05 "5949" 2396
+1:18:17 3.88138e-05 "582" 2015
+1:18:18 3.88138e-05 "4285" 2272
+1:19:1 0.000582208 "792" 2023
+1:19:2 0.000388138 "Stereocidaris indica" 1793
+1:19:3 0.000349325 "Caryophyllia (Caryophyllia) smithii" 322
+1:19:4 0.000349325 "1674" 2076
+1:19:5 0.000232883 "1423" 2063
+1:19:6 0.000194069 "437" 2001
+1:19:7 0.000194069 "Isozoanthus africanus" 1059
+1:19:8 0.000194069 "Monorhaphis chuni" 1240
+1:19:9 0.000155255 "Umbellula spicata" 1961
+1:19:10 0.000116442 "Amphiacme abyssorum" 72
+1:19:11 0.000116442 "1045" 2043
+1:19:12 0.000116442 "1297" 2058
+1:19:13 7.76277e-05 "Epizoanthus armatus" 693
+1:19:14 7.76277e-05 "Epizoanthus planus" 698
+1:19:15 7.76277e-05 "Epizoanthus valdivae" 700
+1:19:16 7.76277e-05 "Exocoelactis actinostoloides" 742
+1:19:17 7.76277e-05 "Ptilella inflata" 1586
+1:19:18 7.76277e-05 "964" 2041
+1:19:19 3.88138e-05 "Funiculina gracilis" 823
+1:19:20 3.88138e-05 "Hyalonema (Corynonema) calix" 981
+1:19:21 3.88138e-05 "Hyalonema (Cyliconema) molle" 995
+1:19:22 3.88138e-05 "Hyalonema (Cyliconema) simile" 998
+1:19:23 3.88138e-05 "Hyalonema (Cyliconema) somalicum" 999
+1:19:24 3.88138e-05 "Hyalonema (Prionema) validum" 1009
+1:19:25 3.88138e-05 "Isozoanthus valdivae" 1061
+1:19:26 3.88138e-05 "Pennatula pearceyi" 1428
+1:19:27 3.88138e-05 "Radicipes aureus" 1592
+1:19:28 3.88138e-05 "1298" 2059
+1:19:29 3.88138e-05 "2114" 2097
+1:20:1 0.00163018 "7366" 2510
+1:20:2 0.000388138 "Ophiocreas sibogae" 1353
+1:20:3 0.000232883 "7492" 2516
+1:20:4 0.000155255 "Caryophyllia diomedeae" 328
+1:20:5 0.000155255 "Caryophyllia (Caryophyllia) diomedeae" 314
+1:20:6 0.000116442 "Aporocidaris milleri" 130
+1:20:7 0.000116442 "Histocidaris elegans" 969
+1:20:8 0.000116442 "Dendrilla rosea" 580
+1:20:9 7.76277e-05 "Chrysogorgia octagonos" 390
+1:20:10 7.76277e-05 "Gorgonocephalus pustulatum" 879
+1:20:11 7.76277e-05 "Stylaster eguchii" 1817
+1:20:12 7.76277e-05 "6663" 2487
+1:20:13 3.88138e-05 "Agelas novaecaledoniae" 52
+1:20:14 3.88138e-05 "Anthoptilum gowlettholmesae" 109
+1:20:15 3.88138e-05 "Aporocidaris antarctica" 129
+1:20:16 3.88138e-05 "Astrothrombus rugosus" 187
+1:20:17 3.88138e-05 "Astrotoma manilense" 189
+1:20:18 3.88138e-05 "Callozostron acanthodes" 272
+1:20:19 3.88138e-05 "Chrysogorgia geniculata" 389
+1:20:20 3.88138e-05 "Clathria macroisochela" 429
+1:20:21 3.88138e-05 "Didemnum fragum" 605
+1:20:22 3.88138e-05 "Paragorgia maunga" 1382
+1:20:23 3.88138e-05 "Parastenella doederleini" 1396
+1:20:24 3.88138e-05 "Primnoisis tasmani" 1553
+1:20:25 3.88138e-05 "Tokoprymno maia" 1920
+1:20:26 3.88138e-05 "5825" 2375
+1:20:27 3.88138e-05 "7493" 2517
+1:21:1 0.00244527 "5346" 2331
+1:21:2 0.000155255 "Dendrophyllia ijimai" 587
+1:21:3 0.000155255 "Gyractis sesere" 885
+1:21:4 0.000155255 "Mycale (Mycale) sulcata" 1289
+1:21:5 0.000116442 "Deltocyathoides orientalis" 569
+1:21:6 7.76277e-05 "Costaticella carotica" 495
+1:21:7 7.76277e-05 "Palythoa nelliae" 1369
+1:21:8 7.76277e-05 "Truncatoflabellum gardineri" 1940
+1:21:9 3.88138e-05 "Cinachyrella macellata" 396
+1:21:10 3.88138e-05 "Comatulidae incertae sedis africana" 464
+1:21:11 3.88138e-05 "Craniella atropurpurea" 497
+1:21:12 3.88138e-05 "Flabellum (Flabellum) thouarsii" 784
+1:21:13 3.88138e-05 "Flabellum thouarsii" 798
+1:21:14 3.88138e-05 "Geodia basilea" 842
+1:21:15 3.88138e-05 "Halicometes pediculata" 916
+1:21:16 3.88138e-05 "Histodermella ingolfi" 971
+1:21:17 3.88138e-05 "Hyalonema (Cyliconema) curvisclera" 989
+1:21:18 3.88138e-05 "Kinetoskias pocillum" 1078
+1:21:19 3.88138e-05 "Poecillastra tuberosa" 1505
+1:21:20 3.88138e-05 "Styela squamosa" 1814
+1:21:21 3.88138e-05 "2758" 2135
+1:22:1 0.000698649 "5428" 2337
+1:22:2 0.000659835 "5683" 2357
+1:22:3 0.000621022 "Truncatoflabellum australiensis" 1937
+1:22:4 0.000310511 "Terebratulina cavata" 1868
+1:22:5 0.000194069 "Deltocyathus sarsi" 574
+1:22:6 0.000194069 "Montipora stellata" 1269
+1:22:7 0.000155255 "Clathria (Isociella) selachia" 421
+1:22:8 0.000155255 "4040" 2253
+1:22:9 0.000116442 "Didemnum tabulatum" 610
+1:22:10 0.000116442 "Ophiocreas oedipus" 1352
+1:22:11 0.000116442 "Umbellula huxleyi" 1956
+1:22:12 7.76277e-05 "Swiftia borealis" 1839
+1:22:13 7.76277e-05 "Thalassometra gracilis" 1888
+1:22:14 7.76277e-05 "3912" 2243
+1:22:15 3.88138e-05 "Farrea hieroglyphica" 749
+1:22:16 3.88138e-05 "Polysyncraton arafurensis" 1521
+1:22:17 3.88138e-05 "Viminella hicksoni" 1967
+1:23:1 0.00104797 "Solenosmilia variabilis" 1721
+1:23:2 0.000388138 "6081" 2424
+1:23:3 0.000310511 "6210" 2447
+1:23:4 0.000271697 "Parantipathes helicosticha" 1391
+1:23:5 0.000232883 "Farrea occa" 750
+1:23:6 0.000194069 "5948" 2395
+1:23:7 0.000194069 "6075" 2420
+1:23:8 0.000155255 "Walteria flemmingi" 1974
+1:23:9 0.000155255 "Dendrobrachia paucispina" 582
+1:23:10 0.000116442 "5810" 2371
+1:23:11 0.000116442 "Trissopathes tristicha" 1931
+1:23:12 7.76277e-05 "Leiopathes acanthophora" 1098
+1:23:13 7.76277e-05 "Pennatula indica" 1426
+1:23:14 7.76277e-05 "7364" 2508
+1:23:15 3.88138e-05 "Farrea ritchieae" 751
+1:23:16 3.88138e-05 "2443" 2118
+1:23:17 3.88138e-05 "6083" 2426
+1:23:18 3.88138e-05 "6468" 2470
+1:23:19 3.88138e-05 "6582" 2480
+1:24:1 0.00159137 "4596" 2297
+1:24:2 0.000349325 "Deltocyathus rotulus" 573
+1:24:3 0.000232883 "4469" 2291
+1:24:4 0.000194069 "2213" 2104
+1:24:5 0.000155255 "Stylissa massa" 1823
+1:24:6 0.000116442 "Jaspis stellifera" 1069
+1:24:7 0.000116442 "Liosina arenosa" 1130
+1:24:8 0.000116442 "Lobophytum patulum" 1171
+1:24:9 0.000116442 "Placotrochides scaphula" 1467
+1:24:10 0.000116442 "5474" 2341
+1:24:11 7.76277e-05 "Conotrochus brunneus" 473
+1:24:12 7.76277e-05 "Dragmacidon coccineum" 645
+1:24:13 7.76277e-05 "Strongylamma arenosa" 1805
+1:24:14 3.88138e-05 "Strepsichordaia lendenfeldi" 1804
+1:24:15 3.88138e-05 "Dasmosmilia variegata" 565
+1:25:1 0.00050458 "Callyspongia (Cavochalina) bilamellata" 276
+1:25:2 0.000426952 "Astrosierra microconus" 185
+1:25:3 0.000349325 "5952" 2399
+1:25:4 0.000310511 "Flabellum tuthilli" 800
+1:25:5 0.000271697 "6069" 2416
+1:25:6 0.000232883 "Flabellum (Ulocyathus) tuthilli" 792
+1:25:7 0.000232883 "5826" 2376
+1:25:8 0.000194069 "6193" 2441
+1:25:9 0.000155255 "Phyllacanthus magnificus" 1457
+1:25:10 0.000116442 "Conescharellina stellata" 470
+1:25:11 7.76277e-05 "Amathia tortuosa" 68
+1:25:12 7.76277e-05 "Anneissia solaster" 91
+1:25:13 7.76277e-05 "Petralia ingens" 1436
+1:25:14 7.76277e-05 "5555" 2348
+1:25:15 7.76277e-05 "6073" 2419
+1:25:16 7.76277e-05 "Dendrobathypathes isocrada" 581
+1:25:17 3.88138e-05 "Trissopathes tetracrada" 1930
+1:25:18 3.88138e-05 "5823" 2374
+1:26:1 0.000892719 "4715" 2302
+1:26:2 0.000310511 "4714" 2301
+1:26:3 0.000271697 "Caryophyllia rugosa" 334
+1:26:4 0.000232883 "Caryophyllia (Caryophyllia) quadragenaria" 319
+1:26:5 0.000232883 "Caryophyllia quadragenaria" 333
+1:26:6 0.000232883 "Sphenotrochus (Sphenotrochus) imbricaticostatus" 1730
+1:26:7 0.000194069 "4215" 2266
+1:26:8 0.000116442 "Axinella weltnerii" 208
+1:26:9 0.000116442 "Letepsammia franki" 1129
+1:26:10 0.000116442 "Premocyathus cornuformis" 1547
+1:26:11 0.000116442 "Molgula dicosta" 1228
+1:26:12 7.76277e-05 "Cyathotrochus nascornatus" 537
+1:26:13 7.76277e-05 "Muricella complanata" 1275
+1:26:14 7.76277e-05 "Monniotus ramosus" 1237
+1:27:1 0.000698649 "3202" 2176
+1:27:2 0.000271697 "3074" 2162
+1:27:3 0.000194069 "Galatheammina calcarea" 825
+1:27:4 0.000155255 "Galatheammina tetraeda" 826
+1:27:5 0.000155255 "Psammetta globosa" 1565
+1:27:6 0.000155255 "Seriocarpa benthedi" 1676
+1:27:7 0.000155255 "5348" 2333
+1:27:8 0.000116442 "Astrocharis monospinosa" 179
+1:27:9 0.000116442 "Oligotrema lyra" 1349
+1:27:10 0.000116442 "Styela crinita" 1810
+1:27:11 0.000116442 "5476" 2342
+1:27:12 7.76277e-05 "Phalangopora regularis" 1445
+1:27:13 7.76277e-05 "Situla lanosa" 1712
+1:27:14 7.76277e-05 "Stylocidaris calacantha" 1825
+1:27:15 3.88138e-05 "Discorhabdella pseudaster" 636
+1:28:1 0.00135848 "4229" 2270
+1:28:2 0.000388138 "Agelas mauritiana" 51
+1:28:3 0.000155255 "Phyllospongia lamellosa" 1458
+1:28:4 0.000116442 "Kaliapsis incrustans" 1074
+1:28:5 3.88138e-05 "Dysidea spinosa" 649
+1:28:6 3.88138e-05 "Euspongia parvula" 740
+1:28:7 3.88138e-05 "Fasciospongia pikei" 758
+1:28:8 3.88138e-05 "Hippospongia mauritiana" 965
+1:28:9 3.88138e-05 "Ircinia intertexta" 1048
+1:28:10 3.88138e-05 "Madrepora oligocyathus" 1186
+1:28:11 3.88138e-05 "Pocillopora mauritiana" 1495
+1:28:12 3.88138e-05 "Rhaphidhistia spectabilis" 1616
+1:28:13 3.88138e-05 "Sinularia conferta" 1690
+1:28:14 3.88138e-05 "Sinularia crassa" 1691
+1:29:1 0.000543394 "Flabellum (Flabellum) pavoninum" 782
+1:29:2 0.000465766 "5866" 2388
+1:29:3 0.000271697 "Eucalathis murrayi" 718
+1:29:4 0.000232883 "6256" 2455
+1:29:5 0.000194069 "Caryophyllia scobinosa" 336
+1:29:6 0.000194069 "Caryophyllia (Caryophyllia) scobinosa" 321
+1:29:7 0.000116442 "Basiliola arnaudi" 221
+1:29:8 0.000116442 "Megerlia truncata" 1197
+1:29:9 7.76277e-05 "Dallithyris dubia" 557
+1:29:10 7.76277e-05 "5868" 2390
+1:29:11 3.88138e-05 "Narella valentine" 1316
+1:30:1 0.00143611 "1069" 2047
+1:30:2 0.000155255 "Deltocyathus andamanicus" 570
+1:30:3 7.76277e-05 "Paracyathus conceptus" 1375
+1:30:4 7.76277e-05 "Stelletta longicladus" 1768
+1:30:5 7.76277e-05 "Trochocyathus (Trochocyathus) gardineri" 1932
+1:30:6 3.88138e-05 "Celleporaria pigmentaria" 353
+1:30:7 3.88138e-05 "Hamacantha (Hamacantha) simplex" 920
+1:30:8 3.88138e-05 "Hymedesmia (Hymedesmia) crelloides" 1023
+1:30:9 3.88138e-05 "Pachymatisma bifida" 1364
+1:30:10 3.88138e-05 "Polymastia murrayi" 1518
+1:30:11 3.88138e-05 "Protosuberites longispiculus" 1560
+1:30:12 3.88138e-05 "Tentorina sigmatophora" 1864
+1:30:13 3.88138e-05 "Vulcanella theneides" 1973
+1:30:14 3.88138e-05 "815" 2025
+1:31:1 0.00050458 "5867" 2389
+1:31:2 0.000232883 "Caryophyllia ambrosia" 325
+1:31:3 0.000232883 "5741" 2366
+1:31:4 0.000194069 "Caryophyllia (Caryophyllia) ambrosia" 311
+1:31:5 0.000194069 "Flabellum (Ulocyathus) lowekeyesi" 789
+1:31:6 0.000155255 "2834" 2142
+1:31:7 0.000116442 "Caryophyllia crosnieri" 327
+1:31:8 7.76277e-05 "Caryophyllia (Caryophyllia) crosnieri" 313
+1:31:9 7.76277e-05 "Dyscolia radiata" 647
+1:31:10 7.76277e-05 "Flabellum (Ulocyathus) messum" 791
+1:31:11 7.76277e-05 "Platylistrum platessa" 1478
+1:31:12 7.76277e-05 "Stephanocyathus (Odontocyathus) campaniformis" 1778
+1:31:13 3.88138e-05 "2452" 2121
+1:31:14 3.88138e-05 "6356" 2465
+1:31:15 3.88138e-05 "6503" 2475
+1:32:1 0.000349325 "413" 1999
+1:32:2 0.000271697 "Polycarpa papillata" 1511
+1:32:3 0.000232883 "Trochocyathus (Trochocyathus) rawsonii" 1933
+1:32:4 0.000232883 "Cyllometra manca" 548
+1:32:5 0.000232883 "412" 1998
+1:32:6 0.000194069 "3707" 2226
+1:32:7 0.000116442 "Dendrophyllia indica" 588
+1:32:8 7.76277e-05 "Ellisella gracilis" 680
+1:32:9 3.88138e-05 "Atriolum robustum" 191
+1:32:10 3.88138e-05 "Gelliodes nossibea" 838
+1:33:1 0.000388138 "3152" 2171
+1:33:2 0.000349325 "Spirobranchus corniculatus" 1737
+1:33:3 0.000310511 "Carteriospongia foliascens" 307
+1:33:4 0.000271697 "Phyllospongia papyracea" 1459
+1:33:5 0.000232883 "Aaptos aaptos" 1
+1:33:6 0.000116442 "Clathria (Microciona) aceratoobtusa" 422
+1:33:7 3.88138e-05 "3151" 2170
+1:33:8 3.88138e-05 "3708" 2227
+1:34:1 0.000349325 "Stephanocyathus (Odontocyathus) nobilis" 1779
+1:34:2 0.000194069 "4335" 2279
+1:34:3 0.000194069 "Funiculina quadrangularis" 824
+1:34:4 0.000194069 "818" 2027
+1:34:5 0.000155255 "Flabellum (Ulocyathus) japonicum" 788
+1:34:6 0.000155255 "4468" 2290
+1:34:7 0.000116442 "Thrypticotrochus petterdi" 1911
+1:34:8 0.000116442 "4462" 2288
+1:34:9 7.76277e-05 "Schizopathes amplispina" 1656
+1:34:10 7.76277e-05 "Flabellum japonicum" 795
+1:34:11 7.76277e-05 "2835" 2143
+1:35:1 0.000543394 "Culicia australiensis" 528
+1:35:2 0.000388138 "5950" 2397
+1:35:3 0.000310511 "5951" 2398
+1:35:4 0.000155255 "Caryophyllia (Caryophyllia) stellula" 323
+1:35:5 0.000116442 "Conotrochus funicolumna" 474
+1:35:6 7.76277e-05 "Dendronephthya waitei" 583
+1:35:7 7.76277e-05 "Pentametrocrinus semperi" 1429
+1:35:8 3.88138e-05 "Corbulipora tubulifera" 479
+1:36:1 0.000543394 "4163" 2262
+1:36:2 0.000349325 "Amphimetra tessellata" 84
+1:36:3 0.000232883 "Annella reticulata" 92
+1:36:4 0.000194069 "Clathria (Thalysias) procera" 428
+1:36:5 0.000116442 "Endectyon (Endectyon) thurstoni" 689
+1:36:6 0.000116442 "Higginsia mixta" 951
+1:36:7 0.000116442 "Oceanometra annandalei" 1344
+1:37:1 0.000426952 "Lobophytum crassum" 1168
+1:37:2 0.000310511 "Ciocalypta tyleri" 400
+1:37:3 0.000271697 "4966" 2315
+1:37:4 0.000116442 "Sinularia heterospiculata" 1698
+1:37:5 0.000116442 "3840" 2236
+1:37:6 7.76277e-05 "Balanophyllia (Balanophyllia) vanderhorsti" 217
+1:37:7 7.76277e-05 "Sarcophyton stellatum" 1651
+1:37:8 7.76277e-05 "Sinularia gravis" 1696
+1:37:9 3.88138e-05 "Paraminabea kosiensis" 1389
+1:37:10 3.88138e-05 "7150" 2502
+1:38:1 0.00050458 "2113" 2096
+1:38:2 0.000388138 "Flabellum (Ulocyathus) deludens" 786
+1:38:3 0.000388138 "Flabellum deludens" 794
+1:38:4 0.000116442 "Epizoanthus fatuus" 696
+1:38:5 0.000116442 "1474" 2070
+1:39:1 0.000621022 "4919" 2313
+1:39:2 0.000232883 "Asteropus simplex" 158
+1:39:3 0.000155255 "Truncatoflabellum candeanum" 1938
+1:39:4 0.000155255 "Villogorgia bebrycoides" 1966
+1:39:5 0.000116442 "Asterometra anthus" 151
+1:39:6 0.000116442 "Astroceras pergamenum" 178
+1:39:7 7.76277e-05 "Styela clava" 1809
+1:39:8 3.88138e-05 "Trichaster acanthifer" 1926
+1:40:1 0.000310511 "4160" 2259
+1:40:2 0.000232883 "4038" 2251
+1:40:3 0.000155255 "Scytalium martensii" 1663
+1:40:4 0.000155255 "Amphimetra ensifer" 83
+1:40:5 0.000155255 "Colobometra discolor" 453
+1:40:6 0.000155255 "Flabellum patens" 797
+1:40:7 0.000116442 "Eleutherobia splendens" 678
+1:40:8 0.000116442 "4665" 2299
+1:40:9 7.76277e-05 "570" 2014
+1:40:10 3.88138e-05 "Eleutherobia australiensis" 676
+1:41:1 0.000426952 "Chondrilla australiensis" 372
+1:41:2 0.000349325 "Tedania (Tedania) anhelans" 1858
+1:41:3 0.000310511 "Zyzzya fuliginosa" 1996
+1:41:4 0.000232883 "5302" 2330
+1:41:5 0.000116442 "5944" 2393
+1:41:6 3.88138e-05 "6068" 2415
+1:42:1 0.000426952 "6100" 2434
+1:42:2 0.000388138 "6099" 2433
+1:42:3 7.76277e-05 "Goniocidaris indica" 865
+1:42:4 7.76277e-05 "Condylanthus magellanicus" 467
+1:42:5 7.76277e-05 "Epizoanthus carcinophilus" 694
+1:42:6 7.76277e-05 "Penares sphaera" 1424
+1:42:7 7.76277e-05 "Dendrophyllia cornigera" 586
+1:42:8 3.88138e-05 "Actinauge granulata" 30
+1:42:9 3.88138e-05 "Actinostola capensis" 36
+1:42:10 3.88138e-05 "Macandrewia auris" 1180
+1:42:11 3.88138e-05 "Rhabdocalyptus baculifer" 1613
+1:42:12 3.88138e-05 "Stereocidaris capensis" 1791
+1:42:13 3.88138e-05 "Eurypon miniaceum" 737
+1:43:1 0.000388138 "Democrinus chuni" 577
+1:43:2 0.000232883 "4967" 2316
+1:43:3 0.000194069 "Eupaxia quadrata" 729
+1:43:4 0.000155255 "Fungiacyathus (Bathyactis) sibogae" 811
+1:43:5 0.000155255 "Pentametrocrinus varians" 1430
+1:43:6 0.000155255 "4716" 2303
+1:43:7 0.000116442 "1800" 2082
+1:43:8 3.88138e-05 "Asteronyx luzonicus" 155
+1:44:1 0.000426952 "5971" 2405
+1:44:2 0.000155255 "Dysidea fragilis" 648
+1:44:3 0.000155255 "Chondrosia reniformis" 387
+1:44:4 0.000155255 "5972" 2406
+1:44:5 0.000155255 "Melithaea coccinea" 1199
+1:44:6 0.000116442 "Isophellia algoaensis" 1053
+1:44:7 0.000116442 "Watersipora subtorquata" 1976
+1:44:8 7.76277e-05 "Ircinia ramosa" 1050
+1:44:9 3.88138e-05 "3465" 2205
+1:45:1 0.000621022 "5556" 2349
+1:45:2 0.000232883 "Acanthocidaris curvatispinis" 21
+1:45:3 0.000116442 "Didemnum cygnuus" 604
+1:45:4 0.000116442 "Helixotionella scutata" 924
+1:45:5 7.76277e-05 "Helixotionella spiralis" 925
+1:45:6 7.76277e-05 "Selenaria maculata" 1665
+1:45:7 7.76277e-05 "Selenariopsis gabrieli" 1667
+1:45:8 3.88138e-05 "Pseudolunularia unguis" 1581
+1:46:1 0.000426952 "567" 2012
+1:46:2 0.000194069 "Phanogenia gracilis" 1447
+1:46:3 0.000155255 "Heterometra reynaudi" 940
+1:46:4 0.000155255 "Cnemidocarpa areolata" 443
+1:46:5 0.000116442 "421" 2000
+1:46:6 0.000116442 "Perophora multiclathrata" 1434
+1:46:7 7.76277e-05 "Mycale mannarensis" 1297
+1:46:8 7.76277e-05 "Trididemnum cristatum" 1927
+1:46:9 3.88138e-05 "6330" 2458
+1:47:1 0.000737463 "836" 2033
+1:47:2 0.000116442 "Styela canopus" 1807
+1:47:3 7.76277e-05 "Pennatula murrayi" 1427
+1:47:4 3.88138e-05 "Acis spinosa" 29
+1:47:5 3.88138e-05 "Compsocalyx gibberosa" 465
+1:47:6 3.88138e-05 "Ecteinascidia diligens" 670
+1:47:7 3.88138e-05 "Hyalonema (Cyliconema) globiferum" 991
+1:47:8 3.88138e-05 "Hyalonema (Cyliconema) valdiviae" 1001
+1:47:9 3.88138e-05 "Isozoanthus arenosus" 1060
+1:47:10 3.88138e-05 "Monanchora enigmatica" 1235
+1:47:11 3.88138e-05 "Narella megalepis" 1314
+1:47:12 3.88138e-05 "Pteroeides hymenocaulon" 1585
+1:47:13 3.88138e-05 "Semperella cucumis" 1669
+1:47:14 3.88138e-05 "Thenea mesotriaena" 1896
+1:48:1 0.000388138 "Mycale (Arenochalina) mirabilis" 1282
+1:48:2 0.000232883 "5829" 2378
+1:48:3 0.000194069 "5557" 2350
+1:48:4 0.000155255 "Sycozoa pulchra" 1841
+1:48:5 0.000116442 "Herdmania pallida" 933
+1:48:6 0.000116442 "Leptoclinides volvus" 1112
+1:48:7 0.000116442 "6072" 2418
+1:49:1 0.000776277 "2087" 2095
+1:49:2 0.000271697 "Pavona divaricata" 1408
+1:49:3 7.76277e-05 "Truncatoflabellum compressum" 1939
+1:49:4 3.88138e-05 "Agaricia lamarcki" 49
+1:49:5 3.88138e-05 "Antipathes virgata" 117
+1:49:6 3.88138e-05 "Madracis myriaster" 1184
+1:49:7 3.88138e-05 "Sinularia andamanensis" 1688
+1:49:8 3.88138e-05 "Stylaster gemmascens" 1819
+1:50:1 0.000543394 "Tropiometra carinata" 1935
+1:50:2 0.000232883 "4081" 2254
+1:50:3 0.000194069 "Plococidaris verticillata" 1487
+1:50:4 0.000116442 "Eguchipsammia gaditana" 674
+1:50:5 7.76277e-05 "Carijoa riisei" 305
+1:50:6 3.88138e-05 "Spinularia sarsii" 1733
+1:50:7 3.88138e-05 "438" 2002
+1:50:8 3.88138e-05 "1047" 2044
+1:51:1 0.000465766 "4039" 2252
+1:51:2 0.000388138 "Junceella juncea" 1073
+1:51:3 0.000155255 "Turbinaria crater" 1948
+1:51:4 0.000116442 "Microcosmus helleri" 1215
+1:51:5 0.000116442 "Paracyathus profundus" 1378
+1:52:1 0.00050458 "Sarcophyton trocheliophorum" 1652
+1:52:2 0.000310511 "4102" 2257
+1:52:3 0.000155255 "Sinularia gardineri" 1694
+1:52:4 7.76277e-05 "Iconometra intermedia" 1033
+1:52:5 7.76277e-05 "Sinularia muralis" 1701
+1:52:6 7.76277e-05 "4364" 2283
+1:52:7 3.88138e-05 "3885" 2237
+1:53:1 0.000465766 "Asteronyx loveni" 154
+1:53:2 0.000388138 "Enallopsammia rostrata" 685
+1:53:3 0.000116442 "6982" 2497
+1:53:4 7.76277e-05 "8056" 2562
+1:53:5 7.76277e-05 "4099" 2256
+1:53:6 3.88138e-05 "7545" 2531
+1:53:7 3.88138e-05 "Laocoetis perion" 1089
+1:54:1 0.000388138 "4979" 2318
+1:54:2 0.000155255 "Asteromorpha rousseaui" 153
+1:54:3 0.000155255 "Astrocladus ludwigi" 180
+1:54:4 0.000116442 "Asterostegus tuberculatus" 163
+1:54:5 7.76277e-05 "4853" 2311
+1:54:6 3.88138e-05 "Asterostegus sabineae" 162
+1:54:7 3.88138e-05 "Cupressopathes cylindrica" 532
+1:54:8 3.88138e-05 "Javania fusca" 1070
+1:54:9 3.88138e-05 "4850" 2310
+1:54:10 3.88138e-05 "4854" 2312
+1:55:1 0.000232883 "Metavermilia acanthophora" 1213
+1:55:2 0.000194069 "824" 2031
+1:55:3 0.000116442 "Phyllacanthus forcipulatus" 1456
+1:55:4 0.000116442 "Protula tubularia" 1562
+1:55:5 0.000116442 "693" 2019
+1:55:6 7.76277e-05 "Auletta elongata" 194
+1:55:7 7.76277e-05 "Stylocidaris tiara" 1827
+1:55:8 7.76277e-05 "564" 2009
+1:55:9 3.88138e-05 "Asteroschema sampadae" 161
+1:56:1 0.00050458 "4842" 2309
+1:56:2 0.000155255 "Adeonella falcicula" 44
+1:56:3 0.000155255 "Galeopsis circella" 831
+1:56:4 3.88138e-05 "Adeonella cultrata" 42
+1:56:5 3.88138e-05 "Clavularia parva" 431
+1:56:6 3.88138e-05 "Hyalonema (Corynonema) natalense" 982
+1:56:7 3.88138e-05 "Truncatoflabellum stabile" 1943
+1:57:1 0.000737463 "6194" 2442
+1:57:2 7.76277e-05 "Polycarpa argentata" 1507
+1:57:3 7.76277e-05 "Didemnum plebeium" 606
+1:57:4 3.88138e-05 "Synoicum implicatum" 1851
+1:57:5 3.88138e-05 "Synoicum vesica" 1853
+1:58:1 0.000271697 "Stereocidaris sceptriferoides" 1796
+1:58:2 0.000155255 "3199" 2173
+1:58:3 0.000155255 "3327" 2186
+1:58:4 0.000116442 "Goniocidaris (Goniocidaris) indica" 864
+1:58:5 0.000116442 "Stereocidaris reducta" 1795
+1:58:6 0.000116442 "Vaceletia crypta" 1963
+1:59:1 0.000388138 "Solanderia secunda" 1720
+1:59:2 0.000194069 "4334" 2278
+1:59:3 0.000155255 "Eudendrium capillare" 721
+1:59:4 0.000155255 "Proboscidactyla ornata" 1555
+1:60:1 0.000543394 "1730" 2079
+1:60:2 7.76277e-05 "Stereocidaris alcocki" 1790
+1:60:3 7.76277e-05 "Theonella lacerata" 1902
+1:60:4 3.88138e-05 "Anomocora fecunda" 96
+1:60:5 3.88138e-05 "Hyalonema (Cyliconema) rapa" 997
+1:60:6 3.88138e-05 "Leiodermatium deciduum" 1096
+1:60:7 3.88138e-05 "Semperella spicifera" 1671
+1:61:1 0.000310511 "Astrothorax waitei" 186
+1:61:2 0.000155255 "Astroceras compar" 177
+1:61:3 0.000116442 "3456" 2203
+1:61:4 0.000116442 "3583" 2216
+1:61:5 7.76277e-05 "Paratelecrinus telo" 1399
+1:61:6 3.88138e-05 "3582" 2215
+1:62:1 0.000388138 "709" 2022
+1:62:2 7.76277e-05 "Chaunangium crater" 370
+1:62:3 7.76277e-05 "Hyalonema (Cyliconema) nicobaricum" 996
+1:62:4 3.88138e-05 "Enallopsammia profunda" 683
+1:62:5 3.88138e-05 "Enallopsammia pusilla" 684
+1:62:6 3.88138e-05 "Leiopathes valdiviae" 1100
+1:62:7 3.88138e-05 "Pheronema raphanus" 1449
+1:62:8 3.88138e-05 "Stichopathes indica" 1800
+1:63:1 0.000388138 "6064" 2413
+1:63:2 7.76277e-05 "Daidalometra eurymedon" 556
+1:63:3 7.76277e-05 "Rhopalocidaris gracilis" 1623
+1:63:4 7.76277e-05 "Rhopalocidaris hirsutispina" 1624
+1:63:5 7.76277e-05 "Stephanocyathus coronatus" 1782
+1:63:6 3.88138e-05 "Stiremetra breviradia" 1802
+1:64:1 0.000349325 "Stelletta purpurea" 1769
+1:64:2 0.000116442 "Rhabdastrella providentiae" 1608
+1:64:3 0.000116442 "6097" 2431
+1:64:4 7.76277e-05 "Pachastrella caliculata" 1362
+1:64:5 7.76277e-05 "2826" 2141
+1:65:1 0.000310511 "692" 2018
+1:65:2 0.000116442 "Distichoptilum gracile" 639
+1:65:3 7.76277e-05 "Hyalonema (Coscinonema) lamella" 984
+1:65:4 7.76277e-05 "Regadrella decora" 1602
+1:65:5 3.88138e-05 "Caryophyllia (Caryophyllia) paradoxus" 316
+1:65:6 3.88138e-05 "Fariometra obscura" 747
+1:65:7 3.88138e-05 "Stiremetra carinifera" 1803
+1:65:8 3.88138e-05 "Thaumatometra plana" 1891
+1:66:1 0.000271697 "Coelogorgia palmosa" 448
+1:66:2 0.000232883 "3329" 2188
+1:66:3 3.88138e-05 "Lemnalia flava" 1102
+1:66:4 3.88138e-05 "Palythoa liscia" 1367
+1:66:5 3.88138e-05 "3407" 2198
+1:67:1 0.000232883 "4207" 2265
+1:67:2 0.000155255 "Dichrometra flagellata" 601
+1:67:3 0.000116442 "Terebratulina valdiviae" 1869
+1:67:4 7.76277e-05 "Cnemidocarpa campylogona" 444
+1:67:5 3.88138e-05 "1602" 2074
+1:68:1 0.000426952 "4840" 2307
+1:68:2 7.76277e-05 "Cymbastela stipitata" 549
+1:68:3 7.76277e-05 "Siderastrea radians" 1680
+1:69:1 0.000271697 "Stephanophyllia complicata" 1789
+1:69:2 0.000155255 "3091" 2164
+1:69:3 0.000116442 "3533" 2210
+1:69:4 3.88138e-05 "2708" 2133
+1:70:1:1 0.000194069 "2963" 2152
+1:70:1:2 3.88138e-05 "Aulocalyx serialis" 197
+1:70:1:3 3.88138e-05 "Discodermia tuberosa" 634
+1:70:1:4 3.88138e-05 "Hemigellius calyx" 929
+1:70:1:5 3.88138e-05 "Pachastrella ovisternata" 1363
+1:70:2:1 0.000116442 "Neopetrosia tuberosa" 1325
+1:70:2:2 7.76277e-05 "2052" 2089
+1:71:1 0.000310511 "6225" 2454
+1:71:2 7.76277e-05 "Hamacantha esperioides" 921
+1:71:3 3.88138e-05 "Alcyonium reptans" 57
+1:71:4 3.88138e-05 "Caryophyllia epitheca" 329
+1:71:5 3.88138e-05 "Ectyonopsis pluridentata" 672
+1:71:6 3.88138e-05 "Stereocidaris excavata" 1792
+1:72:1 0.000194069 "Phaneropora galatheae" 1446
+1:72:2 0.000155255 "6469" 2471
+1:72:3 7.76277e-05 "Sphaeropora fossa" 1724
+1:72:4 3.88138e-05 "Heteropolypus insolitus" 942
+1:72:5 3.88138e-05 "Zanclea dubia" 1992
+1:73:1 0.000271697 "Caryophyllia (Caryophyllia) rugosa" 320
+1:73:2 0.000116442 "3907" 2239
+1:73:3 3.88138e-05 "6260" 2456
+1:74:1 0.000155255 "Parisis fruticosa" 1403
+1:74:2 0.000116442 "Paragorgia splendens" 1383
+1:74:3 0.000116442 "697" 2021
+1:74:4 3.88138e-05 "Keroeides gracilis" 1076
+1:75:1 0.000155255 "Stelletta jonesi" 1767
+1:75:2 0.000116442 "1052" 2045
+1:75:3 7.76277e-05 "Rhynchozoon tubulosum" 1630
+1:75:4 7.76277e-05 "Smittina nitidissima" 1716
+1:76:1 0.000194069 "691" 2017
+1:76:2 7.76277e-05 "Crotalometra sentifera" 513
+1:76:3 7.76277e-05 "Dictyaulus elegans" 603
+1:76:4 3.88138e-05 "Heterometra compta" 939
+1:76:5 3.88138e-05 "Teliocrinus springeri" 1863
+1:77:1 0.000232883 "3203" 2177
+1:77:2 7.76277e-05 "Asajirus gulosus" 141
+1:77:3 7.76277e-05 "Pseudoanthomastus venustus" 1578
+1:77:4 3.88138e-05 "Perometra pusilla" 1433
+1:78:1 0.000194069 "2889" 2147
+1:78:2 0.000116442 "Polycarpa albatrossi" 1506
+1:78:3 3.88138e-05 "Grammetaria bartschi" 881
+1:78:4 3.88138e-05 "Peponocyathus minimus" 1431
+1:78:5 3.88138e-05 "Zygonaria davidsoni" 1995
+1:79:1 0.000194069 "Stylaster flabelliformis" 1818
+1:79:2 0.000155255 "4355" 2282
+1:79:3 3.88138e-05 "Madracis hellana" 1182
+1:80:1 0.000194069 "4841" 2308
+1:80:2 7.76277e-05 "Alatotrochus rubescens" 55
+1:80:3 7.76277e-05 "Balanophyllia (Eupsammia) stimpsonii" 218
+1:81:1 0.000155255 "1451" 2065
+1:81:2 0.000116442 "Hydnophora grandis" 1015
+1:82:1 0.000155255 "Zanclea costata" 1991
+1:82:2 3.88138e-05 "963" 2040
+1:82:3 3.88138e-05 "2747" 2134
+1:83:1 0.000116442 "Dasmosmilia lymani" 564
+1:83:2 3.88138e-05 "5273" 2328
+1:83:3 3.88138e-05 "6782" 2492
+1:84:1 7.76277e-05 "Clarkcomanthus comanthipinna" 413
+1:84:2 7.76277e-05 "4493" 2293
+1:84:3 3.88138e-05 "Perissogorgia bythia" 1432
+1:85:1 7.76277e-05 "Dyscolia johannisdavisi" 646
+1:85:2 7.76277e-05 "1434" 2064
+1:85:3 3.88138e-05 "Saccocalyx pedunculatus" 1633
+1:86:1 0.000155255 "Telesto (Carijoa) arborea" 1862
+1:86:2 3.88138e-05 "3457" 2204
+1:87:1 7.76277e-05 "Chondrilla kilakaria" 373
+1:87:2 3.88138e-05 "440" 2003
+1:88:1 7.76277e-05 "Guillecrinus reunionensis" 883
+1:88:2 3.88138e-05 "3006" 2155
+1:89:1 7.76277e-05 "6076" 2421
+1:89:2 3.88138e-05 "Hydroides ezoensis" 1021
+1:90:1 7.76277e-05 "Cladiella pachyclados" 404
+1:90:2 3.88138e-05 "6483" 2474
+1:91:1 7.76277e-05 "Parasmittina serrula" 1394
+1:91:2 3.88138e-05 "2228" 2106
+1:92:1 7.76277e-05 "Penares intermedius" 1423
+1:92:2 3.88138e-05 "950" 2038
+1:93:1 7.76277e-05 "Stichopathes variabilis" 1801
+1:93:2 3.88138e-05 "3011" 2157
+1:94:1 7.76277e-05 "Taylorius waiparaensis" 1856
+1:94:2 3.88138e-05 "5852" 2385
+2:1:1 0.00178544 "7925" 2552
+2:1:2 0.00128086 "Ctenocidaris (Eurocidaris) nutrix" 522
+2:1:3 0.00124204 "8050" 2558
+2:1:4 0.00100916 "7924" 2551
+2:1:5 0.000815091 "Aerothyris kerguelensis" 48
+2:1:6 0.000815091 "7922" 2549
+2:1:7 0.000737463 "Antarctotetilla leptoderma" 99
+2:1:8 0.000737463 "7797" 2543
+2:1:9 0.000698649 "7926" 2553
+2:1:10 0.000698649 "7795" 2541
+2:1:11 0.000659835 "7923" 2550
+2:1:12 0.000659835 "7796" 2542
+2:1:13 0.000659835 "Promachocrinus kerguelensis" 1556
+2:1:14 0.000621022 "Stylocordyla borealis" 1830
+2:1:15 0.000621022 "7798" 2544
+2:1:16 0.000621022 "Plicatellopsis antarctica" 1486
+2:1:17 0.00050458 "8051" 2559
+2:1:18 0.00050458 "Pemphixina pyxidata" 1421
+2:1:19 0.000388138 "8052" 2560
+2:1:20 0.000388138 "7919" 2547
+2:1:21 0.000349325 "Megaciella pilosa" 1195
+2:1:22 0.000310511 "Bubaris vermiculata" 261
+2:1:23 0.000310511 "7669" 2536
+2:1:24 0.000310511 "7667" 2535
+2:1:25 0.000310511 "Tentorium papillatum" 1865
+2:1:26 0.000310511 "Tedania charcoti" 1861
+2:1:27 0.000310511 "Tedania (Tedaniopsis) charcoti" 1859
+2:1:28 0.000310511 "Myxilla (Myxilla) basimucronata" 1306
+2:1:29 0.000310511 "Myxilla basimucronata" 1309
+2:1:30 0.000271697 "9066" 2604
+2:1:31 0.000271697 "Myxilla (Ectyomyxilla) kerguelensis" 1304
+2:1:32 0.000271697 "Hymedesmia (Hymedesmia) mariondufresni" 1026
+2:1:33 0.000271697 "Tetilla coronida" 1880
+2:1:34 0.000232883 "Inflatella belli" 1037
+2:1:35 0.000232883 "Isodictya kerguelenensis" 1052
+2:1:36 0.000194069 "Poecillastra compressa" 1502
+2:1:37 0.000194069 "7671" 2537
+2:1:38 0.000194069 "Iophon radiatum" 1041
+2:1:39 0.000155255 "Halichondria panicea" 891
+2:1:40 0.000155255 "Xestospongia hispida" 1987
+2:1:41 0.000155255 "7544" 2530
+2:1:42 0.000155255 "Polymastia invaginata" 1516
+2:1:43 0.000155255 "Homaxinella balfourensis" 977
+2:1:44 0.000155255 "Halichondria (Halichondria) panicea" 890
+2:1:45 0.000155255 "Calyx kerguelensis" 293
+2:1:46 0.000155255 "8053" 2561
+2:1:47 0.000116442 "Spongionella pulchella" 1745
+2:1:48 0.000116442 "Raspailia (Raspaxilla) phakellina" 1598
+2:1:49 0.000116442 "Pseudosuberites sulcatus" 1584
+2:1:50 0.000116442 "7799" 2545
+2:1:51 0.000116442 "Chondrocladia (Chondrocladia) fatimae" 379
+2:1:52 0.000116442 "Haliclona pedunculata" 912
+2:1:53 0.000116442 "8047" 2557
+2:1:54 0.000116442 "Artemisina apollinis" 138
+2:1:55 0.000116442 "Clathria (Clathria) terraenovae" 420
+2:1:56 0.000116442 "8437" 2589
+2:1:57 0.000116442 "Amphilectus rugosus" 75
+2:1:58 7.76277e-05 "Latrunculia (Latrunculia) bocagei" 1092
+2:1:59 7.76277e-05 "Latrunculia (Latrunculia) apicalis" 1090
+2:1:60 7.76277e-05 "Mycale fibrosa" 1293
+2:1:61 7.76277e-05 "Mycale (Mycale) fibrosa" 1284
+2:1:62 7.76277e-05 "Iophon unicorne" 1042
+2:1:63 7.76277e-05 "Latrunculia (Latrunculia) biformis" 1091
+2:1:64 7.76277e-05 "Hymedesmia (Hymedesmia) leptochela" 1024
+2:1:65 7.76277e-05 "7920" 2548
+2:1:66 7.76277e-05 "Haliclona (Reniera) topsenti" 904
+2:1:67 7.76277e-05 "Latrunculia apicalis" 1094
+2:1:68 7.76277e-05 "Tentorium semisuberites" 1866
+2:1:69 7.76277e-05 "Sphaerotylus capitatus" 1725
+2:1:70 3.88138e-05 "Crella (Crella) tubifex" 503
+2:1:71 3.88138e-05 "Crella (Pytheas) crassa" 505
+2:1:72 3.88138e-05 "Haliclona (Gellius) flabelliformis" 896
+2:1:73 3.88138e-05 "Neopodospongia carlinae" 1326
+2:1:74 3.88138e-05 "Semisuberites cribrosa" 1668
+2:1:75 3.88138e-05 "8179" 2566
+2:1:76 3.88138e-05 "Tedania (Tedaniopsis) vanhoeffeni" 1860
+2:1:77 3.88138e-05 "Chondrocladia (Chondrocladia) nani" 382
+2:1:78 3.88138e-05 "Esperiopsis pulchella" 715
+2:1:79 3.88138e-05 "Florometra mawsoni" 801
+2:1:80 3.88138e-05 "Lissodendoryx (Lissodendoryx) paucispinata" 1140
+2:1:81 3.88138e-05 "7794" 2540
+2:1:82 3.88138e-05 "7673" 2538
+2:1:83 3.88138e-05 "Raspailia (Hymeraphiopsis) hentscheli" 1593
+2:1:84 3.88138e-05 "7526" 2528
+2:1:85 3.88138e-05 "Myxilla (Myxilla) mollis" 1307
+2:1:86 3.88138e-05 "Lissodendoryx paucispinata" 1143
+2:1:87 3.88138e-05 "Desmacella alba" 593
+2:2:1 0.00256171 "7511" 2520
+2:2:2 0.00221239 "7512" 2521
+2:2:3 0.00108679 "7638" 2533
+2:2:4 0.000776277 "8309" 2578
+2:2:5 0.000426952 "Malakosaria sinclairii" 1190
+2:2:6 0.000310511 "Caberea darwinii" 267
+2:2:7 0.000310511 "Figularia philomela" 776
+2:2:8 0.000232883 "Osthimosia bicornis" 1354
+2:2:9 0.000232883 "7639" 2534
+2:2:10 0.000232883 "Cellaria clavata" 349
+2:2:11 0.000232883 "Galeopsis marionensis" 832
+2:2:12 0.000194069 "Kinetoskias cyathus" 1077
+2:2:13 0.000194069 "Osthimosia eatonensis" 1355
+2:2:14 0.000194069 "Ogivalia elegans" 1348
+2:2:15 0.000194069 "Camptoplites bicornis" 295
+2:2:16 0.000194069 "Leiosalpinx inornata" 1101
+2:2:17 0.000155255 "Foveolaria orbicularis" 806
+2:2:18 0.000155255 "Cornucopina pectogemma" 486
+2:2:19 0.000155255 "Hippothoa flagellum" 967
+2:2:20 0.000155255 "Thouarella (Thouarella) variabilis" 1910
+2:2:21 0.000155255 "Tervia irregularis" 1873
+2:2:22 0.000155255 "Menipea flagellifera" 1204
+2:2:23 0.000155255 "Rhodelinda gardineri" 1618
+2:2:24 0.000116442 "Eumorphometra hirsuta" 727
+2:2:25 0.000116442 "Haliclona (Flagellia) flagellifera" 892
+2:2:26 0.000116442 "Cellaria malvinensis" 350
+2:2:27 0.000116442 "Primnoeides sertularoides" 1551
+2:2:28 0.000116442 "Acanthogorgia ramosissima" 22
+2:2:29 0.000116442 "Osthimosia pustulata" 1356
+2:2:30 7.76277e-05 "Fenestrulina marioni" 774
+2:2:31 7.76277e-05 "Eudendrium tottoni" 723
+2:2:32 7.76277e-05 "Cladopathes plumosa" 406
+2:2:33 7.76277e-05 "Haliclona ernsthentscheli" 909
+2:2:34 7.76277e-05 "Idmidronea australis" 1035
+2:2:35 7.76277e-05 "Xenobrochus anomalus" 1983
+2:2:36 7.76277e-05 "Arachnopusia triarmata" 135
+2:2:37 7.76277e-05 "Menipea kempi" 1205
+2:2:38 7.76277e-05 "Notoplites elongatus" 1335
+2:2:39 7.76277e-05 "Arachnopusia monoceros" 134
+2:2:40 7.76277e-05 "Amastigia kirkpatricki" 66
+2:2:41 3.88138e-05 "Myxilla mariana" 1310
+2:2:42 3.88138e-05 "Raspailia (Raspaxilla) mariana" 1597
+2:2:43 3.88138e-05 "Myxilla (Ectyomyxilla) mariana" 1305
+2:2:44 3.88138e-05 "Smittina jacobensis" 1715
+2:2:45 3.88138e-05 "Sympagella johnstoni" 1843
+2:2:46 3.88138e-05 "Abyssocladia symmetrica" 6
+2:2:47 3.88138e-05 "Iophon laminale" 1040
+2:2:48 3.88138e-05 "Iophon abnormalis" 1038
+2:2:49 3.88138e-05 "6749" 2490
+2:2:50 3.88138e-05 "7504" 2518
+2:2:51 3.88138e-05 "Fibulia ramosa" 775
+2:2:52 3.88138e-05 "Escharella crozetensis" 708
+2:2:53 3.88138e-05 "Ctenocidaris speciosa" 523
+2:2:54 3.88138e-05 "Buffonellodes marsupifera" 262
+2:2:55 3.88138e-05 "Bathypathes conferta" 234
+2:2:56 3.88138e-05 "9072" 2605
+2:3:1 0.00100916 "Gorgonocephalus chilensis" 877
+2:3:2 0.000698649 "Astrotoma agassizii" 188
+2:3:3 0.000155255 "7152" 2503
+2:3:4 0.000155255 "8311" 2580
+2:3:5 0.000116442 "8183" 2570
+2:3:6 0.000116442 "8280" 2574
+2:3:7 7.76277e-05 "8401" 2582
+2:3:8 7.76277e-05 "8407" 2585
+2:3:9 3.88138e-05 "Magellania joubini" 1188
+2:3:10 3.88138e-05 "6770" 2491
+2:3:11 3.88138e-05 "8279" 2573
+2:3:12 3.88138e-05 "8405" 2583
+2:3:13 3.88138e-05 "8406" 2584
+2:3:14 3.88138e-05 "8687" 2596
+2:3:15 3.88138e-05 "8952" 2603
+2:4:1 0.00050458 "Serpula narconensis" 1677
+2:4:2 0.000426952 "Platidia anomioides" 1468
+2:4:3 0.000426952 "7524" 2526
+2:4:4 0.000310511 "7523" 2525
+2:4:5 0.000232883 "Paragorgia arborea" 1381
+2:4:6 0.000194069 "Errina kerguelensis" 703
+2:4:7 0.000194069 "7396" 2511
+2:4:8 0.000116442 "Primnoisis (Primnoisis) antarctica" 1552
+2:4:9 3.88138e-05 "7398" 2513
+2:5:1 0.000349325 "8180" 2567
+2:5:2 0.000349325 "8184" 2571
+2:5:3 0.000349325 "8308" 2577
+2:5:4 0.000232883 "8310" 2579
+2:5:5 0.000194069 "Suberites caminatus" 1836
+2:5:6 0.000155255 "Bathylasma corolliforme" 227
+2:5:7 0.000116442 "Cinachyra antarctica" 393
+2:5:8 0.000116442 "Hormathia lacunifera" 979
+2:5:9 7.76277e-05 "Isosecuriflustra angusta" 1058
+2:5:10 3.88138e-05 "Pemmatoporella marginata" 1420
+2:6:1 0.000970346 "8307" 2576
+2:6:2 0.000155255 "Carbasea ovoidea" 303
+2:6:3 0.000116442 "Chaperiopsis cristata" 365
+2:6:4 7.76277e-05 "Antarctotetilla grandis" 98
+2:6:5 7.76277e-05 "Lissodendoryx (Lissodendoryx) fusca" 1137
+2:6:6 7.76277e-05 "Poecillastra schulzei" 1503
+2:6:7 7.76277e-05 "Suberites microstomus" 1838
+2:6:8 7.76277e-05 "Smittina anecdota" 1714
+2:6:9 7.76277e-05 "Liothyrella uva" 1132
+2:6:10 3.88138e-05 "7531" 2529
+2:6:11 3.88138e-05 "Arachnopusia inchoata" 133
+2:6:12 3.88138e-05 "Galeopsis bullatus" 830
+2:6:13 3.88138e-05 "Lageneschara lyrulata" 1084
+2:6:14 3.88138e-05 "Smittoidea ornatipectoralis" 1719
+2:7:1 0.000892719 "7525" 2527
+2:7:2 0.000232883 "Eudendrium rameum" 722
+2:7:3 0.000155255 "Iophon cheliferum" 1039
+2:7:4 0.000155255 "Rossella antarctica" 1632
+2:7:5 7.76277e-05 "Haliclona (Gellius) carduus" 893
+2:7:6 7.76277e-05 "Lissodendoryx (Ectyodoryx) nobilis" 1136
+2:7:7 7.76277e-05 "Phakellia stuartridleyi" 1442
+2:7:8 3.88138e-05 "1057" 2046
+2:7:9 3.88138e-05 "Chonelasma lamella" 388
+2:7:10 3.88138e-05 "Ecnomiosa inexpectata" 669
+2:7:11 3.88138e-05 "Errina gracilis" 702
+2:7:12 3.88138e-05 "Thouarella (Thouarella) antarctica" 1909
+2:8:1 0.000698649 "8435" 2587
+2:8:2 7.76277e-05 "Polymastia isidis" 1517
+2:8:3 3.88138e-05 "Esperiopsis heardi" 713
+2:8:4 3.88138e-05 "Eucalathis magna" 717
+2:8:5 3.88138e-05 "Latrunculia (Latrunculia) brevis" 1093
+2:8:6 3.88138e-05 "Latrunculia brevis" 1095
+2:8:7 3.88138e-05 "Mycale (Anomomycale) titubans" 1281
+2:8:8 3.88138e-05 "Neofungella claviformis" 1321
+2:8:9 3.88138e-05 "Xenobrochus australis" 1984
+2:9:1 0.000349325 "8436" 2588
+2:9:2 0.000155255 "Rhynchocidaris triplopora" 1625
+2:9:3 0.000116442 "8185" 2572
+2:9:4 7.76277e-05 "8057" 2563
+2:9:5 3.88138e-05 "Thouarella (Epithouarella) chilensis" 1907
+2:10:1 0.000232883 "8781" 2599
+2:10:2 7.76277e-05 "Antarctothoa bougainvillei" 100
+2:10:3 7.76277e-05 "Beania costata" 242
+2:10:4 7.76277e-05 "Bicrisia edwardsiana" 246
+2:10:5 7.76277e-05 "Menipea patagonica" 1206
+2:10:6 7.76277e-05 "Paralaeospira levinseni" 1384
+2:10:7 7.76277e-05 "Romanchella inventis" 1631
+2:11:1 0.000232883 "Bolocera kerguelensis" 256
+2:11:2 0.000194069 "Liponema multiporum" 1133
+2:11:3 0.000155255 "8181" 2568
+2:11:4 3.88138e-05 "6224" 2453
+2:11:5 3.88138e-05 "8182" 2569
+2:12:1 0.000271697 "6381" 2467
+2:12:2 7.76277e-05 "Primnoeides flagellum" 1550
+2:12:3 7.76277e-05 "6504" 2476
+2:12:4 3.88138e-05 "Abyssocladia boletiphora" 3
+2:12:5 3.88138e-05 "Abyssocladia corniculiphora" 4
+2:12:6 3.88138e-05 "Abyssocladia hemiradiata" 5
+2:12:7 3.88138e-05 "Asbestopluma (Asbestopluma) pseudoisochela" 145
+2:12:8 3.88138e-05 "Asbestopluma (Asbestopluma) unguiferata" 147
+2:13:1 0.000232883 "6881" 2496
+2:13:2 7.76277e-05 "Primnoa bisquama" 1549
+2:13:3 3.88138e-05 "Asbestopluma (Asbestopluma) jamescooki" 143
+2:13:4 3.88138e-05 "Asbestopluma (Asbestopluma) laminachela" 144
+2:13:5 3.88138e-05 "Chondrocladia (Meliiderma) rogersi" 383
+2:13:6 3.88138e-05 "Parastenella ramosa" 1397
+2:14:1 0.000194069 "7397" 2512
+2:14:2 0.000116442 "Liothyrella moseleyi" 1131
+2:14:3 7.76277e-05 "Dasystenella acanthina" 566
+2:14:4 3.88138e-05 "7928" 2554
+2:15:1 0.000232883 "Pelagodiscus atlanticus" 1419
+2:15:2 3.88138e-05 "8821" 2600
+2:15:3 3.88138e-05 "8950" 2602
+2:15:4 3.88138e-05 "9208" 2609
+2:16:1 0.000116442 "Parastenella spinosa" 1398
+2:16:2 0.000116442 "8503" 2592
+2:16:3 3.88138e-05 "Hemicorallium laauense" 928
+2:17:1 0.000116442 "Chaperiopsis galeata" 366
+2:17:2 0.000116442 "8434" 2586
+2:17:3 3.88138e-05 "8289" 2575
+2:18:1 7.76277e-05 "Mycale (Aegogropila) magellanica" 1279
+2:18:2 7.76277e-05 "Mycale magellanica" 1295
+2:18:3 7.76277e-05 "9078" 2606
+2:19:1 0.000116442 "Bugula longissima" 264
+2:19:2 3.88138e-05 "8692" 2597
+2:20:1 0.000116442 "Haliclona (Gellius) glacialis" 897
+2:20:2 3.88138e-05 "7508" 2519
+3:1:1 0.000776277 "Bathypathes patula" 235
+3:1:2 0.00050458 "Proagnesia depressa" 1554
+3:1:3 0.000426952 "Abyssopathes lyra" 7
+3:1:4 0.000388138 "Bathystyeloides enderbyanus" 239
+3:1:5 0.000388138 "3235" 2181
+3:1:6 0.000349325 "2226" 2105
+3:1:7 0.000310511 "Styela calva" 1806
+3:1:8 0.000310511 "Umbellula thomsoni" 1962
+3:1:9 0.000232883 "5630" 2355
+3:1:10 0.000194069 "Styela ordinaria" 1812
+3:1:11 0.000194069 "2473" 2124
+3:1:12 0.000194069 "2483" 2125
+3:1:13 0.000194069 "2854" 2145
+3:1:14 0.000194069 "2981" 2153
+3:1:15 0.000194069 "3359" 2191
+3:1:16 0.000155255 "Scleroptilum grandiflorum" 1659
+3:1:17 0.000155255 "2863" 2146
+3:1:18 0.000116442 "Styela charcoti" 1808
+3:1:19 0.000116442 "1075" 2050
+3:1:20 0.000116442 "5491" 2346
+3:1:21 7.76277e-05 "2988" 2154
+3:1:22 7.76277e-05 "6136" 2439
+3:1:23 3.88138e-05 "Adagnesia fissa" 38
+3:1:24 3.88138e-05 "Aplysina holda" 127
+3:1:25 3.88138e-05 "1077" 2051
+3:1:26 3.88138e-05 "1581" 2072
+3:2:1 0.000970346 "5490" 2345
+3:2:2 0.000543394 "Culeolus suhmi" 527
+3:2:3 0.000426952 "5746" 2367
+3:2:4 0.000388138 "4738" 2304
+3:2:5 0.000271697 "5349" 2334
+3:2:6 0.000232883 "Oligotrema unigonas" 1351
+3:2:7 0.000194069 "5363" 2336
+3:2:8 0.000194069 "Bifaxaria submucronata" 253
+3:2:9 0.000194069 "Domosclerus corrugatus" 641
+3:2:10 0.000155255 "Amastigia nuda" 67
+3:2:11 0.000155255 "Columnella bipectinata" 455
+3:2:12 0.000155255 "Cornucopina palmata" 485
+3:2:13 0.000155255 "4484" 2292
+3:2:14 0.000116442 "Notoplites elegantissima" 1334
+3:2:15 0.000116442 "Ichthyaria plana" 1032
+3:2:16 0.000116442 "Diplonotos inornatus" 615
+3:2:17 7.76277e-05 "Notoplites flandrini" 1336
+3:2:18 7.76277e-05 "Disporella cookae" 637
+3:2:19 7.76277e-05 "Petalostegus bicornis" 1435
+3:2:20 7.76277e-05 "Steginocellaria mirabilis" 1757
+3:2:21 7.76277e-05 "Tessaradoma boreale" 1874
+3:2:22 7.76277e-05 "4610" 2298
+3:2:23 7.76277e-05 "Alternatipathes alternata" 60
+3:2:24 3.88138e-05 "Himantozoum (Himantozoum) margaritiferum" 958
+3:2:25 3.88138e-05 "Himantozoum (Himantozoum) elatior" 954
+3:2:26 3.88138e-05 "Siphonicytara symetrica" 1709
+3:2:27 3.88138e-05 "Tessaradoma sinulabiata" 1875
+3:2:28 3.88138e-05 "3107" 2165
+3:2:29 3.88138e-05 "Culeolus longipedunculatus" 525
+3:2:30 3.88138e-05 "Columnella pacifica" 459
+3:2:31 3.88138e-05 "Bathyoncus mirabilis" 232
+3:2:32 3.88138e-05 "5481" 2343
+3:2:33 3.88138e-05 "Anguisia verrucosa" 90
+3:3:1 0.000388138 "1592" 2073
+3:3:2 0.000349325 "1465" 2068
+3:3:3 0.000271697 "Cnemidocarpa platybranchia" 445
+3:3:4 0.000232883 "1975" 2088
+3:3:5 0.000155255 "Abyssascidia millari" 2
+3:3:6 0.000155255 "Euginoma vermiformis" 726
+3:3:7 0.000116442 "Umbellula monocephalus" 1959
+3:3:8 7.76277e-05 "Molguloides longirecta" 1231
+3:3:9 7.76277e-05 "Styela tenuibranchia" 1815
+3:3:10 7.76277e-05 "3233" 2180
+3:3:11 3.88138e-05 "Molguloides crenatum" 1230
+3:3:12 3.88138e-05 "Octacnemus alatus" 1345
+3:3:13 3.88138e-05 "1090" 2052
+3:4:1 0.00050458 "948" 2037
+3:4:2 0.000232883 "821" 2028
+3:4:3 0.000155255 "Adagnesia charcoti" 37
+3:4:4 0.000155255 "Molgula pila" 1229
+3:4:5 0.000155255 "Octacnemus ingolfi" 1346
+3:4:6 0.000155255 "Polycarpa indiana" 1510
+3:4:7 0.000155255 "822" 2029
+3:5:1 0.000349325 "Columnella magna" 458
+3:5:2 0.000271697 "5728" 2364
+3:5:3 0.000232883 "5980" 2411
+3:5:4 0.000194069 "Himantozoum (Himantozoum) leontodon" 956
+3:5:5 0.000116442 "5727" 2363
+3:5:6 7.76277e-05 "Cornucopina novissima" 483
+3:5:7 3.88138e-05 "Columnella accincta" 454
+3:5:8 3.88138e-05 "Hyalonema (Cyliconema) eupinnulum" 990
+3:6:1 0.000271697 "Columnella delicatissima" 456
+3:6:2 0.000271697 "2569" 2127
+3:6:3 0.000194069 "Columnella graminea" 457
+3:6:4 0.000194069 "2181" 2099
+3:6:5 0.000155255 "Himantozoum (Himantozoum) sinuosum" 959
+3:6:6 7.76277e-05 "Cladorhiza nematophora" 411
+3:6:7 3.88138e-05 "Psammetta arenocentrum" 1563
+3:7:1 0.000388138 "2057" 2092
+3:7:2 0.000232883 "2186" 2100
+3:7:3 0.000116442 "Stannoma dendroides" 1751
+3:7:4 0.000116442 "Stannophyllum globigerinum" 1753
+3:7:5 0.000116442 "Stannophyllum indistinctum" 1754
+3:7:6 0.000116442 "2824" 2140
+3:7:7 7.76277e-05 "Chondrocladia (Chondrocladia) multichela" 381
+3:8:1 0.000426952 "1202" 2057
+3:8:2 0.000155255 "3455" 2202
+3:8:3 7.76277e-05 "Chondrocladia (Chondrocladia) dichotoma" 378
+3:8:4 7.76277e-05 "Himantozoum (Himantozoum) inflatum" 955
+3:8:5 7.76277e-05 "Himantozoum (Himantozoum) macilentum" 957
+3:8:6 3.88138e-05 "Clavularia flexibilis" 430
+3:8:7 3.88138e-05 "Camptoplites lunatus" 296
+3:8:8 3.88138e-05 "Cornucopina collatata" 480
+3:8:9 3.88138e-05 "Euoplozoum cirratum" 728
+3:8:10 3.88138e-05 "Hippospongia densa" 964
+3:8:11 3.88138e-05 "Hyalonema (Oonema) ovichela" 1008
+3:9:1 0.000465766 "2314" 2110
+3:9:2 0.000116442 "Cerelasma massa" 359
+3:9:3 7.76277e-05 "Chondrocladia (Chondrocladia) clavata" 377
+3:9:4 7.76277e-05 "Chondrocladia clavata" 385
+3:9:5 7.76277e-05 "7930" 2556
+3:9:6 3.88138e-05 "Hyalonema (Cyliconema) madagascarense" 994
+3:9:7 3.88138e-05 "Hyalonema (Cyliconemaoida) choaniferum" 1002
+3:10:1 0.000426952 "5861" 2387
+3:10:2 7.76277e-05 "Farciminellum hexagonum" 745
+3:10:3 3.88138e-05 "Caulophacus (Caulophacus) galatheae" 342
+3:10:4 3.88138e-05 "Cornucopina nupera" 484
+3:10:5 3.88138e-05 "Himantozoum (Himantozoum) taurinum" 960
+3:10:6 3.88138e-05 "Himantozoum taurinum" 961
+3:10:7 3.88138e-05 "Hyalonema (Cyliconema) abyssale" 985
+3:11:1 0.000388138 "Asajirus indicus" 142
+3:11:2 0.000155255 "Stannophyllum mollum" 1755
+3:11:3 0.000116442 "2697" 2132
+3:11:4 3.88138e-05 "Stannophyllum reticulatum" 1756
+3:12:1 0.000426952 "695" 2020
+3:12:2 0.000116442 "Kophobelemnon stelliferum" 1080
+3:12:3 3.88138e-05 "Aciculites orientalis" 28
+3:12:4 3.88138e-05 "Heteropathes heterorhodzos" 941
+3:13:1 0.000194069 "Styela sericata" 1813
+3:13:2 0.000194069 "1455" 2066
+3:13:3 7.76277e-05 "Chondrocladia (Chondrocladia) gracilis" 380
+3:13:4 3.88138e-05 "1464" 2067
+3:14:1 0.000194069 "5352" 2335
+3:14:2 3.88138e-05 "Bugula decipiens" 263
+3:14:3 3.88138e-05 "Maudammina arenaria" 1194
+3:14:4 3.88138e-05 "Stannophyllum fragilis" 1752
+3:15:1 7.76277e-05 "Umbellula durissima" 1955
+3:15:2 3.88138e-05 "561" 2007
+4:1:1 0.00100916 "7522" 2524
+4:1:2 0.000116442 "Acanthella erecta" 19
+4:1:3 7.76277e-05 "Aulocalyx irregularis" 196
+4:1:4 7.76277e-05 "Caulophacus (Caulophacus) latus" 343
+4:1:5 7.76277e-05 "Fungulus perlucidus" 822
+4:1:6 3.88138e-05 "Bathydorus spinosus" 224
+4:1:7 3.88138e-05 "Chondrocladia (Meliiderma) stipitata" 384
+4:1:8 3.88138e-05 "Cladorhiza tridentata" 412
+4:1:9 3.88138e-05 "Cornucopina infundibulata" 482
+4:1:10 3.88138e-05 "Esperiopsis profunda" 714
+4:1:11 3.88138e-05 "Hyalonema (Ijimaonema) clavigerum" 1007
+4:1:12 3.88138e-05 "Mycale mammiformis" 1296
+4:1:13 3.88138e-05 "Thalassometra bispinosa" 1887
+4:1:14 3.88138e-05 "Thaumatometra abyssorum" 1890
+4:1:15 3.88138e-05 "Thenea delicata" 1893
+4:1:16 3.88138e-05 "Tonrometra remota" 1922
+4:2:1 0.00050458 "8471" 2590
+4:2:2 0.000155255 "Fungiacyathus (Bathyactis) symmetricus" 812
+4:2:3 0.000155255 "Fungiacyathus symmetricus" 820
+4:2:4 7.76277e-05 "Formosocellaria magnifica" 804
+4:2:5 7.76277e-05 "Leptopenus discus" 1113
+4:2:6 3.88138e-05 "Caulophacus (Caulophacus) pipetta" 344
+4:2:7 3.88138e-05 "Caulophacus pipetta" 346
+4:2:8 3.88138e-05 "Holascus polejaevi" 973
+4:3:1 0.000543394 "Umbellula lindahli" 1957
+4:3:2 0.000116442 "Umbellula magniflora" 1958
+4:3:3 0.000116442 "5617" 2354
+4:3:4 7.76277e-05 "9203" 2608
+4:4:1:1 0.000155255 "Holascus fibulatus" 972
+4:4:1:2 0.000116442 "7100" 2499
+4:4:1:3 3.88138e-05 "Umbellapathes tenuis" 1953
+4:4:2:1 0.000116442 "2435" 2117
+4:4:2:2 3.88138e-05 "Epizoanthus chuni" 695
+4:4:2:3 3.88138e-05 "Placopegma solutum" 1465
+4:4:3:1 7.76277e-05 "7519" 2523
+4:4:3:2 3.88138e-05 "Malacosaccus vastus" 1189
+4:5:1 0.000155255 "9269" 2610
+4:5:2 0.000116442 "Fungiacyathus (Bathyactis) marenzelleri" 810
+4:5:3 3.88138e-05 "Abyssothyris wyvillei" 9
+4:5:4 3.88138e-05 "Bathyphellia australis" 237
+4:5:5 3.88138e-05 "Fungiacyathus marenzelleri" 818
+4:6:1 0.000194069 "7491" 2515
+4:6:2 0.000116442 "Jasonisis thresheri" 1063
+4:6:3 3.88138e-05 "Bathygorgia abyssicola" 225
+4:6:4 3.88138e-05 "Bathygorgia tasmaniensis" 226
+4:7:1 0.000155255 "1832" 2083
+4:7:2 7.76277e-05 "Hyalonema (Cyliconema) coniforme" 988
+4:7:3 3.88138e-05 "Hyalonema (Cyliconemaoida) solutum" 1003
+4:7:4 3.88138e-05 "Hyalonema (Cyliconemaoida) urna" 1004
+4:8:1 0.000116442 "7779" 2539
+4:8:2 7.76277e-05 "Umbellula carpenteri" 1954
+4:8:3 3.88138e-05 "Kophobelemnon pauciflorum" 1079
+4:9:1 7.76277e-05 "Bathydorus laevis" 223
+4:9:2 7.76277e-05 "447" 2006
+4:9:3 3.88138e-05 "Hyalonema (Coscinonema) indicum" 983
+4:10:1 7.76277e-05 "Cladorhiza moruliformis" 410
+4:10:2 3.88138e-05 "8501" 2591
+5:1 0.000155255 "6111" 2438
+5:2 7.76277e-05 "Caulophacus (Caulophacus) basispinosus" 341
+5:3 3.88138e-05 "Anthelia profunda" 103
+5:4 3.88138e-05 "Hertwigia falcifera" 936
+5:5 3.88138e-05 "Polymastia disclera" 1515
+5:6 3.88138e-05 "5857" 2386
+6:1 0.000155255 "Suberites carnosus" 1837
+6:2 0.000116442 "5830" 2379
+6:3 7.76277e-05 "Darwinella australiensis" 562
+7:1 0.000155255 "833" 2032
+7:2 3.88138e-05 "Bathycrinus woodmasoni" 222
+7:3 3.88138e-05 "Euplectella aspera" 731
+7:4 3.88138e-05 "Holascus tener" 974
+7:5 3.88138e-05 "Rhabdodictyum delicatum" 1615
+8:1 0.000116442 "5753" 2368
+8:2 3.88138e-05 "Asbestopluma (Asbestopluma) ramuscula" 146
+8:3 3.88138e-05 "Narella candidae" 1311
+8:4 3.88138e-05 "Narella speighti" 1315
+9:1 0.000116442 "Bathynanus inversus" 229
+9:2 3.88138e-05 "3131" 2167
+9:3 3.88138e-05 "3244" 2182
+9:4 3.88138e-05 "3374" 2192
+10:1 0.000116442 "Bathynanus rhizopodus" 230
+10:2 3.88138e-05 "932" 2034
+10:3 3.88138e-05 "1071" 2049
+10:4 3.88138e-05 "1191" 2053
+11:1 7.76277e-05 "Schizopathes crassa" 1657
+11:2 7.76277e-05 "8656" 2595
+11:3 3.88138e-05 "Callozostron diplodiadema" 273
+11:4 3.88138e-05 "9142" 2607
+12:1 7.76277e-05 "Thenea multiformis" 1898
+12:2 3.88138e-05 "5779" 2369
+12:3 3.88138e-05 "5782" 2370
+13:1 7.76277e-05 "5529" 2347
+13:2 3.88138e-05 "Thenea megaspina" 1895
+13:3 3.88138e-05 "Thenea microspina" 1897
+14:1 7.76277e-05 "3019" 2159
+14:2 3.88138e-05 "Asteroschema arenosum" 159
+14:3 3.88138e-05 "Squamophis amamiensis" 1750
+15:1 7.76277e-05 "Melvicalathis macroctena" 1201
+15:2 3.88138e-05 "7834" 2546
+15:3 3.88138e-05 "8094" 2564
+16:1 7.76277e-05 "8105" 2565
+16:2 3.88138e-05 "Hyalonema conus" 1011
+16:3 3.88138e-05 "Tealidium cingulatum" 1857
+17:1 7.76277e-05 "Culeolus murrayi" 526
+17:2 3.88138e-05 "2890" 2148
+17:3 3.88138e-05 "3150" 2169
+18:1 7.76277e-05 "Cladorhiza mani" 409
+18:2 3.88138e-05 "8510" 2593
+18:3 3.88138e-05 "8768" 2598
+19:1 7.76277e-05 "Cladorhiza ephyrula" 408
+19:2 3.88138e-05 "6104" 2435
+19:3 3.88138e-05 "6107" 2437
+20:1 3.88138e-05 "Caulophacus (Caulophacus) schulzei" 345
+20:2 3.88138e-05 "2349" 2115
+21:1 3.88138e-05 "Corallistes bispiraster" 476
+21:2 3.88138e-05 "5614" 2353
+22:1 3.88138e-05 "Cosmiometra leilae" 494
+22:2 3.88138e-05 "951" 2039
+23:1 3.88138e-05 "Craniella curviclada" 498
+23:2 3.88138e-05 "4082" 2255
+24:1 3.88138e-05 "Crateromorpha (Neopsacas) obi" 501
+24:2 3.88138e-05 "4108" 2258
+25:1 3.88138e-05 "Crypthelia fragilis" 515
+25:2 3.88138e-05 "8378" 2581
+26:1 3.88138e-05 "Carlsbergia ridgenensis" 306
+26:2 3.88138e-05 "675" 2016
+27:1 3.88138e-05 "Bathypathes bayeri" 233
+27:2 3.88138e-05 "1721" 2078
+28:1 3.88138e-05 "Deltocyathus varians" 576
+28:2 3.88138e-05 "5232" 2327
+29:1 3.88138e-05 "Farrea truncata" 753
+29:2 3.88138e-05 "7477" 2514
+30:1 3.88138e-05 "Grammetaria minima" 882
+30:2 3.88138e-05 "2448" 2120
+31:1 3.88138e-05 "Herengeria vasiformis" 934
+31:2 3.88138e-05 "6428" 2469
+32:1 3.88138e-05 "Hyalascus stellatus" 980
+32:2 3.88138e-05 "7929" 2555
+33:1 3.88138e-05 "Hyalonema (Cyliconema) tulipa" 1000
+33:2 3.88138e-05 "1731" 2080
+34:1 3.88138e-05 "Astrohamma tuberculatum" 183
+34:2 3.88138e-05 "2075" 2094
+35:1 3.88138e-05 "Laminatubus alvini" 1086
+35:2 3.88138e-05 "3395" 2194
+36:1 3.88138e-05 "Macandrevia americana" 1179
+36:2 3.88138e-05 "8897" 2601
+37:1 3.88138e-05 "Astrangia solitaria" 164
+37:2 3.88138e-05 "2582" 2129
+38:1 3.88138e-05 "Mycale australis" 1292
+38:2 3.88138e-05 "7237" 2505
+39:1 3.88138e-05 "Nellia haywardi" 1318
+39:2 3.88138e-05 "5486" 2344
+40:1 3.88138e-05 "Sarcodictyon pallidum" 1640
+40:2 3.88138e-05 "3016" 2158
+41:1 3.88138e-05 "Synoicum arenaceum" 1846
+41:2 3.88138e-05 "2844" 2144
+42:1 3.88138e-05 "Tetilla pedonculata" 1882
+42:2 3.88138e-05 "5976" 2410
+43:1 3.88138e-05 "Thenea centrotyla" 1892
+43:2 3.88138e-05 "6282" 2457
+44:1 3.88138e-05 "Aplidium multiplicatum" 126
+44:2 3.88138e-05 "1834" 2084
+45:1 3.88138e-05 "Actinecta torpedo" 31
+45:2 3.88138e-05 "5223" 2326
+46:1 3.88138e-05 "Tonrometra multicirra" 1921
+46:2 3.88138e-05 "2763" 2136
+47:1 3.88138e-05 "Vityaziella renki" 1972
+47:2 3.88138e-05 "3636" 2218
